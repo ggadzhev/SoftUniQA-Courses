@@ -1,1 +1,0 @@
-This is first solo GitBash update and Push into origin.
