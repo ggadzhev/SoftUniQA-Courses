@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\Vacation Books List.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\Vacation Books List.AssemblyInfo.cs
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\Vacation Books List.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\bin\Debug\net6.0\Vacation Books List.exe
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\bin\Debug\net6.0\Vacation Books List.deps.json
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\bin\Debug\net6.0\Vacation Books List.runtimeconfig.json
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\bin\Debug\net6.0\Vacation Books List.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\bin\Debug\net6.0\Vacation Books List.pdb
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\Vacation Books List.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\refint\Vacation Books List.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\Vacation Books List.pdb
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\Vacation Books List.genruntimeconfig.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Vacation Books List\obj\Debug\net6.0\ref\Vacation Books List.dll

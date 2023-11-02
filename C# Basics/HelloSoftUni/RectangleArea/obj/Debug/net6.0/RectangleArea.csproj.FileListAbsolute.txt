@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.exe
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.deps.json
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.dll
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\bin\Debug\net6.0\RectangleArea.pdb
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.dll
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\refint\RectangleArea.dll
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.pdb
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\RectangleArea.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\RectangleArea\obj\Debug\net6.0\ref\RectangleArea.dll

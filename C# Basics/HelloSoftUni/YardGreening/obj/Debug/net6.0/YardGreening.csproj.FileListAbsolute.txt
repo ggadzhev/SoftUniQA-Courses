@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\bin\Debug\net6.0\YardGreening.exe
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\bin\Debug\net6.0\YardGreening.deps.json
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\bin\Debug\net6.0\YardGreening.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\bin\Debug\net6.0\YardGreening.dll
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\bin\Debug\net6.0\YardGreening.pdb
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.dll
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\refint\YardGreening.dll
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.pdb
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\ref\YardGreening.dll

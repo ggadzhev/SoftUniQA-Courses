@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\bin\Debug\net6.0\InchesToSantimeter.exe
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\bin\Debug\net6.0\InchesToSantimeter.deps.json
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\bin\Debug\net6.0\InchesToSantimeter.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\bin\Debug\net6.0\InchesToSantimeter.dll
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\bin\Debug\net6.0\InchesToSantimeter.pdb
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\InchesToSantimeter.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\InchesToSantimeter.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\InchesToSantimeter.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\InchesToSantimeter.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\InchesToSantimeter.dll
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\refint\InchesToSantimeter.dll
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\InchesToSantimeter.pdb
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\InchesToSantimeter.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\InchesToSantimeter\obj\Debug\net6.0\ref\InchesToSantimeter.dll

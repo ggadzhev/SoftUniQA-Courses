@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\bin\Debug\net6.0\ProjectCreation.exe
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\bin\Debug\net6.0\ProjectCreation.deps.json
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\bin\Debug\net6.0\ProjectCreation.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\bin\Debug\net6.0\ProjectCreation.dll
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\bin\Debug\net6.0\ProjectCreation.pdb
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ProjectCreation.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ProjectCreation.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ProjectCreation.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ProjectCreation.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ProjectCreation.dll
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\refint\ProjectCreation.dll
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ProjectCreation.pdb
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ProjectCreation.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\ProjectCreation\obj\Debug\net6.0\ref\ProjectCreation.dll

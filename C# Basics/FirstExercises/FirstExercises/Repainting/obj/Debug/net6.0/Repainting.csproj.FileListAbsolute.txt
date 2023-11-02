@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\bin\Debug\net6.0\Repainting.exe
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\bin\Debug\net6.0\Repainting.deps.json
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\bin\Debug\net6.0\Repainting.runtimeconfig.json
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\bin\Debug\net6.0\Repainting.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\bin\Debug\net6.0\Repainting.pdb
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\Repainting.AssemblyInfo.cs
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\Repainting.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\Repainting.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\refint\Repainting.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\Repainting.pdb
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\Repainting.genruntimeconfig.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Repainting\obj\Debug\net6.0\ref\Repainting.dll

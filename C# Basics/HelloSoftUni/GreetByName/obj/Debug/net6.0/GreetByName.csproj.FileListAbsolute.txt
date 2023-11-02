@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\bin\Debug\net6.0\GreetByName.exe
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\bin\Debug\net6.0\GreetByName.deps.json
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\bin\Debug\net6.0\GreetByName.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\bin\Debug\net6.0\GreetByName.dll
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\bin\Debug\net6.0\GreetByName.pdb
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\GreetByName.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\GreetByName.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\GreetByName.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\GreetByName.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\GreetByName.dll
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\refint\GreetByName.dll
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\GreetByName.pdb
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\GreetByName.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\GreetByName\obj\Debug\net6.0\ref\GreetByName.dll

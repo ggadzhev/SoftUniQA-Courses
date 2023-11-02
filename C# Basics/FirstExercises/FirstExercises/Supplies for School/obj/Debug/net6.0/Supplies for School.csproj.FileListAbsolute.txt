@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\bin\Debug\net6.0\Supplies for School.exe
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\bin\Debug\net6.0\Supplies for School.deps.json
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\bin\Debug\net6.0\Supplies for School.runtimeconfig.json
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\bin\Debug\net6.0\Supplies for School.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\bin\Debug\net6.0\Supplies for School.pdb
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\Supplies for School.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\Supplies for School.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\Supplies for School.AssemblyInfo.cs
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\Supplies for School.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\Supplies for School.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\refint\Supplies for School.dll
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\Supplies for School.pdb
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\Supplies for School.genruntimeconfig.cache
+F:\ProgrammingBasics\FirstExercises\FirstExercises\Supplies for School\obj\Debug\net6.0\ref\Supplies for School.dll

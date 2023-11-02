@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\bin\Debug\net6.0\DivideNumbers.exe
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\bin\Debug\net6.0\DivideNumbers.deps.json
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\bin\Debug\net6.0\DivideNumbers.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\bin\Debug\net6.0\DivideNumbers.dll
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\bin\Debug\net6.0\DivideNumbers.pdb
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\DivideNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\DivideNumbers.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\DivideNumbers.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\DivideNumbers.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\DivideNumbers.dll
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\refint\DivideNumbers.dll
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\DivideNumbers.pdb
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\DivideNumbers.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\DivideNumbers\obj\Debug\net6.0\ref\DivideNumbers.dll

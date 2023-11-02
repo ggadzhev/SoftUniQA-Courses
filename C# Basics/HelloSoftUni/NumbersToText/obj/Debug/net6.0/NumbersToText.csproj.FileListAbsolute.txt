@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\bin\Debug\net6.0\NumbersToText.exe
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\bin\Debug\net6.0\NumbersToText.deps.json
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\bin\Debug\net6.0\NumbersToText.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\bin\Debug\net6.0\NumbersToText.dll
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\bin\Debug\net6.0\NumbersToText.pdb
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\NumbersToText.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\NumbersToText.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\NumbersToText.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\NumbersToText.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\NumbersToText.dll
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\refint\NumbersToText.dll
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\NumbersToText.pdb
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\NumbersToText.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\NumbersToText\obj\Debug\net6.0\ref\NumbersToText.dll

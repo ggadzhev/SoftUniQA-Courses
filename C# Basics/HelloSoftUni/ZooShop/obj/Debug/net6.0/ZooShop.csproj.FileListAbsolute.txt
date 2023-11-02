@@ -1,0 +1,14 @@
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\bin\Debug\net6.0\ZooShop.exe
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\bin\Debug\net6.0\ZooShop.deps.json
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\bin\Debug\net6.0\ZooShop.runtimeconfig.json
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\bin\Debug\net6.0\ZooShop.dll
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\bin\Debug\net6.0\ZooShop.pdb
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ZooShop.GeneratedMSBuildEditorConfig.editorconfig
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ZooShop.AssemblyInfoInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ZooShop.AssemblyInfo.cs
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ZooShop.csproj.CoreCompileInputs.cache
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ZooShop.dll
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\refint\ZooShop.dll
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ZooShop.pdb
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ZooShop.genruntimeconfig.cache
+F:\ProgrammingBasics\HelloSoftUni\ZooShop\obj\Debug\net6.0\ref\ZooShop.dll
