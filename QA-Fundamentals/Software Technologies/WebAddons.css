@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(198, 240, 82);
+    color: rgb(6, 255, 68);
+    font-size: 38px;
+}
+b {
+    color: rgb(255, 0, 13);
+    font: italic;
+    font-style: italic;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+}
