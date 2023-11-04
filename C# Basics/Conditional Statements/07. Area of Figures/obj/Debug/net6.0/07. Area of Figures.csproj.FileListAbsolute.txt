@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\bin\Debug\net6.0\07. Area of Figures.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\bin\Debug\net6.0\07. Area of Figures.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\bin\Debug\net6.0\07. Area of Figures.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\bin\Debug\net6.0\07. Area of Figures.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\bin\Debug\net6.0\07. Area of Figures.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\07. Area of Figures.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\07. Area of Figures.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\07. Area of Figures.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\07. Area of Figures.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\07. Area of Figures.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\refint\07. Area of Figures.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\07. Area of Figures.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\07. Area of Figures.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\07. Area of Figures\obj\Debug\net6.0\ref\07. Area of Figures.dll

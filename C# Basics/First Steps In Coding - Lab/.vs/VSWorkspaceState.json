@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\9.YardGreening",
+    "\\DivideNumbers"
   ],
+  "SelectedNode": "\\9.YardGreening\\YardGreening.csproj",
   "PreviewInSolutionExplorer": false
 }

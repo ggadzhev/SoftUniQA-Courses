@@ -12,3 +12,17 @@ F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\refint\YardGreen
 F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.pdb
 F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\YardGreening.genruntimeconfig.cache
 F:\ProgrammingBasics\HelloSoftUni\YardGreening\obj\Debug\net6.0\ref\YardGreening.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\bin\Debug\net6.0\YardGreening.exe
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\bin\Debug\net6.0\YardGreening.deps.json
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\bin\Debug\net6.0\YardGreening.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\bin\Debug\net6.0\YardGreening.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\bin\Debug\net6.0\YardGreening.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\YardGreening.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\YardGreening.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\YardGreening.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\YardGreening.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\YardGreening.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\refint\YardGreening.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\YardGreening.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\YardGreening.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps In Coding - Lab\9.YardGreening\obj\Debug\net6.0\ref\YardGreening.dll

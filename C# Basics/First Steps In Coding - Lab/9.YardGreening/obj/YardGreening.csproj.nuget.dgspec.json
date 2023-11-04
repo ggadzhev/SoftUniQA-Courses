@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\YardGreening\\YardGreening.csproj": {}
+    "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\9.YardGreening\\YardGreening.csproj": {}
   },
   "projects": {
-    "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\YardGreening\\YardGreening.csproj": {
+    "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\9.YardGreening\\YardGreening.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\YardGreening\\YardGreening.csproj",
+        "projectUniqueName": "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\9.YardGreening\\YardGreening.csproj",
         "projectName": "YardGreening",
-        "projectPath": "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\YardGreening\\YardGreening.csproj",
+        "projectPath": "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\9.YardGreening\\YardGreening.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\YardGreening\\obj\\",
+        "outputPath": "F:\\SoftUniQA-Courses\\C# Basics\\First Steps In Coding - Lab\\9.YardGreening\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Georgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
