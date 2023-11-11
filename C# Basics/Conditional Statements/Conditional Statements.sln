@@ -7,15 +7,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional Statements", "C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Greater Number", "02. Greater Number\02. Greater Number.csproj", "{A3166CE0-2EF6-4881-BCBF-FAE159F5D95B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Score", "01.Score\01.Score.csproj", "{91194B9E-6BF5-4DCE-A852-56E29389FF62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Score", "01.Score\01.Score.csproj", "{91194B9E-6BF5-4DCE-A852-56E29389FF62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.EvenOdd", "03.EvenOdd\03.EvenOdd.csproj", "{0493E5B0-D2F5-482C-99CA-01F916B2C58F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.EvenOdd", "03.EvenOdd\03.EvenOdd.csproj", "{0493E5B0-D2F5-482C-99CA-01F916B2C58F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.PasswordGuess", "04.PasswordGuess\04.PasswordGuess.csproj", "{3261B1D0-4BB5-453F-9FE3-244BBD1D6CC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.PasswordGuess", "04.PasswordGuess\04.PasswordGuess.csproj", "{3261B1D0-4BB5-453F-9FE3-244BBD1D6CC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Number 100-200", "05.Number 100-200\05.Number 100-200.csproj", "{9868FB7C-02D5-4763-B7AD-4274F314EF57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Number 100-200", "05.Number 100-200\05.Number 100-200.csproj", "{9868FB7C-02D5-4763-B7AD-4274F314EF57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Area of Figures", "07. Area of Figures\07. Area of Figures.csproj", "{0268FA7A-1A43-4D21-AFA4-71D6551DB097}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Area of Figures", "07. Area of Figures\07. Area of Figures.csproj", "{0268FA7A-1A43-4D21-AFA4-71D6551DB097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed Info", "06. Speed Info\06. Speed Info.csproj", "{45A16597-539D-4EE3-AED5-84AA2F6A5E64}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{0268FA7A-1A43-4D21-AFA4-71D6551DB097}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0268FA7A-1A43-4D21-AFA4-71D6551DB097}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0268FA7A-1A43-4D21-AFA4-71D6551DB097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A16597-539D-4EE3-AED5-84AA2F6A5E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A16597-539D-4EE3-AED5-84AA2F6A5E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A16597-539D-4EE3-AED5-84AA2F6A5E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A16597-539D-4EE3-AED5-84AA2F6A5E64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

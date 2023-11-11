@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.exe
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.deps.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\bin\Debug\net6.0\03. Celsius to Fahrenheit.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\refint\03. Celsius to Fahrenheit.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\03. Celsius to Fahrenheit.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\03. Celsius to Fahrenheit\obj\Debug\net6.0\ref\03. Celsius to Fahrenheit.dll

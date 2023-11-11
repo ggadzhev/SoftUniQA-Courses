@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\bin\Debug\net6.0\02. Weekend or Working Day.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\bin\Debug\net6.0\02. Weekend or Working Day.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\bin\Debug\net6.0\02. Weekend or Working Day.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\bin\Debug\net6.0\02. Weekend or Working Day.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\bin\Debug\net6.0\02. Weekend or Working Day.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\02. Weekend or Working Day.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\02. Weekend or Working Day.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\02. Weekend or Working Day.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\02. Weekend or Working Day.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\02. Weekend or Working Day.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\refint\02. Weekend or Working Day.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\02. Weekend or Working Day.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\02. Weekend or Working Day.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\02. Weekend or Working Day\obj\Debug\net6.0\ref\02. Weekend or Working Day.dll

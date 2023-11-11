@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net6.0\08. Cinema Ticket.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net6.0\08. Cinema Ticket.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net6.0\08. Cinema Ticket.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net6.0\08. Cinema Ticket.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\bin\Debug\net6.0\08. Cinema Ticket.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\08. Cinema Ticket.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\08. Cinema Ticket.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\08. Cinema Ticket.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\08. Cinema Ticket.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\08. Cinema Ticket.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\refint\08. Cinema Ticket.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\08. Cinema Ticket.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\08. Cinema Ticket.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\08. Cinema Ticket\obj\Debug\net6.0\ref\08. Cinema Ticket.dll

@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\03. Animal Type.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\03. Animal Type.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\03. Animal Type.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\03. Animal Type.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net6.0\03. Animal Type.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net6.0\03. Animal Type.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net6.0\03. Animal Type.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net6.0\03. Animal Type.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\bin\Debug\net6.0\03. Animal Type.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\03. Animal Type.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\refint\03. Animal Type.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\03. Animal Type.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\03. Animal Type.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\03. Animal Type\obj\Debug\net6.0\ref\03. Animal Type.dll

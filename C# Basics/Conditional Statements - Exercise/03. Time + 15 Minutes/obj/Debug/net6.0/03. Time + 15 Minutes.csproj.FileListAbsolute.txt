@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\bin\Debug\net6.0\03. Time + 15 Minutes.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\refint\03. Time + 15 Minutes.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\03. Time + 15 Minutes.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\03. Time + 15 Minutes\obj\Debug\net6.0\ref\03. Time + 15 Minutes.dll

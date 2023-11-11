@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Sum Seconds", "01. Sum Seconds\01. Sum Seconds.csproj", "{517CA623-28A4-4FF5-97BC-AF82118B683E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Bonus Score", "02. Bonus Score\02. Bonus Score.csproj", "{87D23D62-8E42-4F95-9B7E-EE8A9A63DE3B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Time + 15 Minutes", "03. Time + 15 Minutes\03. Time + 15 Minutes.csproj", "{5E5BD272-01A0-450E-B941-FC770D672BEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{762B84A9-E04F-425D-AB41-CF03F82F7590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Toy Shop", "04. Toy Shop\04. Toy Shop.csproj", "{AB04EBD6-B223-4175-8DFF-FA4A4092E9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Godzilla vs. Kong", "05. Godzilla vs. Kong\05. Godzilla vs. Kong.csproj", "{ABAD2E4D-A928-4AC9-8A39-6555A426971F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{517CA623-28A4-4FF5-97BC-AF82118B683E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517CA623-28A4-4FF5-97BC-AF82118B683E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517CA623-28A4-4FF5-97BC-AF82118B683E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517CA623-28A4-4FF5-97BC-AF82118B683E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D23D62-8E42-4F95-9B7E-EE8A9A63DE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D23D62-8E42-4F95-9B7E-EE8A9A63DE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D23D62-8E42-4F95-9B7E-EE8A9A63DE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D23D62-8E42-4F95-9B7E-EE8A9A63DE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5BD272-01A0-450E-B941-FC770D672BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5BD272-01A0-450E-B941-FC770D672BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5BD272-01A0-450E-B941-FC770D672BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5BD272-01A0-450E-B941-FC770D672BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762B84A9-E04F-425D-AB41-CF03F82F7590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762B84A9-E04F-425D-AB41-CF03F82F7590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762B84A9-E04F-425D-AB41-CF03F82F7590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762B84A9-E04F-425D-AB41-CF03F82F7590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB04EBD6-B223-4175-8DFF-FA4A4092E9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB04EBD6-B223-4175-8DFF-FA4A4092E9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB04EBD6-B223-4175-8DFF-FA4A4092E9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB04EBD6-B223-4175-8DFF-FA4A4092E9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABAD2E4D-A928-4AC9-8A39-6555A426971F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAD2E4D-A928-4AC9-8A39-6555A426971F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAD2E4D-A928-4AC9-8A39-6555A426971F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAD2E4D-A928-4AC9-8A39-6555A426971F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFB75B18-6EE5-4A8A-8A2B-330FCA8C92DF}
+	EndGlobalSection
+EndGlobal

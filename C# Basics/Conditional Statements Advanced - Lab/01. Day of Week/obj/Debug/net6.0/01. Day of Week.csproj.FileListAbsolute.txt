@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net6.0\01. Day of Week.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\refint\01. Day of Week.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\01. Day of Week.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net6.0\ref\01. Day of Week.dll

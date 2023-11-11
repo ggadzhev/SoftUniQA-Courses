@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.exe
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.deps.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\bin\Debug\net6.0\04. Vegetable Market.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\refint\04. Vegetable Market.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\04. Vegetable Market.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\04. Vegetable Market\obj\Debug\net6.0\ref\04. Vegetable Market.dll

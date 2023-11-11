@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\bin\Debug\net6.0\06. Speed Info.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\bin\Debug\net6.0\06. Speed Info.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\bin\Debug\net6.0\06. Speed Info.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\bin\Debug\net6.0\06. Speed Info.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\bin\Debug\net6.0\06. Speed Info.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\06. Speed Info.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\06. Speed Info.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\06. Speed Info.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\06. Speed Info.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\refint\06. Speed Info.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\06. Speed Info.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\06. Speed Info.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements\06. Speed Info\obj\Debug\net6.0\ref\06. Speed Info.dll

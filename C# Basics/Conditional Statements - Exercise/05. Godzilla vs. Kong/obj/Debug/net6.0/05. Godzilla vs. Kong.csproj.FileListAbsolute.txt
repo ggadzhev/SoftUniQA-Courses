@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net6.0\05. Godzilla vs. Kong.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\refint\05. Godzilla vs. Kong.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\05. Godzilla vs. Kong.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net6.0\ref\05. Godzilla vs. Kong.dll

@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\net6.0\06. Fishland.exe
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\net6.0\06. Fishland.deps.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\net6.0\06. Fishland.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\net6.0\06. Fishland.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\bin\Debug\net6.0\06. Fishland.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\06. Fishland.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\06. Fishland.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\06. Fishland.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\06. Fishland.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\06. Fishland.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\refint\06. Fishland.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\06. Fishland.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\06. Fishland.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\06. Fishland\obj\Debug\net6.0\ref\06. Fishland.dll

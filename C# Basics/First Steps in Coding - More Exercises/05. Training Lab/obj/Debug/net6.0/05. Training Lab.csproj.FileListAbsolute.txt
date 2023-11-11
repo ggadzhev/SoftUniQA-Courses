@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.exe
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.deps.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\bin\Debug\net6.0\05. Training Lab.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\refint\05. Training Lab.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\05. Training Lab.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\05. Training Lab\obj\Debug\net6.0\ref\05. Training Lab.dll

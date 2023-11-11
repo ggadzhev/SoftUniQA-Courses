@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net6.0\04. Personal Titles.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net6.0\04. Personal Titles.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net6.0\04. Personal Titles.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net6.0\04. Personal Titles.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net6.0\04. Personal Titles.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\04. Personal Titles.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\04. Personal Titles.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\04. Personal Titles.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\04. Personal Titles.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\refint\04. Personal Titles.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\04. Personal Titles.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\04. Personal Titles.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net6.0\ref\04. Personal Titles.dll

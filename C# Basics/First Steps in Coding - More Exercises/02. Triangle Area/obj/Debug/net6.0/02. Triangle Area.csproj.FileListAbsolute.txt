@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.exe
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.deps.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\bin\Debug\net6.0\02. Triangle Area.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\refint\02. Triangle Area.dll
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.pdb
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\02. Triangle Area.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\First Steps in Coding - More Exercises\02. Triangle Area\obj\Debug\net6.0\ref\02. Triangle Area.dll

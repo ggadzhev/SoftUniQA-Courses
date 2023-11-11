@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\bin\Debug\net6.0\02. Bonus Score.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\refint\02. Bonus Score.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\02. Bonus Score.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\02. Bonus Score\obj\Debug\net6.0\ref\02. Bonus Score.dll

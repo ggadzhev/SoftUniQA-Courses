@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net6.0\04. Toy Shop.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\refint\04. Toy Shop.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\04. Toy Shop.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net6.0\ref\04. Toy Shop.dll

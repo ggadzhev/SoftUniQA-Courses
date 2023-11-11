@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net6.0\01. Sum Seconds.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net6.0\01. Sum Seconds.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net6.0\01. Sum Seconds.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net6.0\01. Sum Seconds.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\bin\Debug\net6.0\01. Sum Seconds.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\01. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\01. Sum Seconds.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\01. Sum Seconds.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\01. Sum Seconds.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\01. Sum Seconds.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\refint\01. Sum Seconds.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\01. Sum Seconds.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\01. Sum Seconds.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\01. Sum Seconds\obj\Debug\net6.0\ref\01. Sum Seconds.dll
