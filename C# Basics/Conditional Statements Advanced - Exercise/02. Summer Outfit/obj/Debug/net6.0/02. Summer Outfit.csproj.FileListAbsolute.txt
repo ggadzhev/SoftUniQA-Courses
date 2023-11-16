@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\net6.0\02. Summer Outfit.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\refint\02. Summer Outfit.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\02. Summer Outfit.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\net6.0\ref\02. Summer Outfit.dll

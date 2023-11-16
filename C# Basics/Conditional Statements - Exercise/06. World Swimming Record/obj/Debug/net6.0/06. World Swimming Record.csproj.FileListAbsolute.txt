@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\bin\Debug\net6.0\06. World Swimming Record.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\refint\06. World Swimming Record.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\06. World Swimming Record.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\06. World Swimming Record\obj\Debug\net6.0\ref\06. World Swimming Record.dll

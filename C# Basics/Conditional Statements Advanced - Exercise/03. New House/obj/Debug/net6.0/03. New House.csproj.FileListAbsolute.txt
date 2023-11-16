@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\bin\Debug\net6.0\03. New House.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\refint\03. New House.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\03. New House.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\03. New House\obj\Debug\net6.0\ref\03. New House.dll

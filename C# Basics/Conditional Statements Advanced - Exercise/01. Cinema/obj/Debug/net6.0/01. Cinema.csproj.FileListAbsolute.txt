@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\net6.0\01. Cinema.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\refint\01. Cinema.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\01. Cinema.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\net6.0\ref\01. Cinema.dll

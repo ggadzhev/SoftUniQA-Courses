@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\bin\Debug\net6.0\07. Shopping.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\bin\Debug\net6.0\07. Shopping.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\bin\Debug\net6.0\07. Shopping.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\bin\Debug\net6.0\07. Shopping.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\bin\Debug\net6.0\07. Shopping.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\07. Shopping.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\07. Shopping.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\07. Shopping.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\07. Shopping.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\07. Shopping.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\refint\07. Shopping.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\07. Shopping.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\07. Shopping.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements - Exercise\07. Shopping\obj\Debug\net6.0\ref\07. Shopping.dll

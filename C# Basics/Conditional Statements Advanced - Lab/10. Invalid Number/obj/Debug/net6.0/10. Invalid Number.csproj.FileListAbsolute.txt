@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\bin\Debug\net6.0\10. Invalid Number.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\refint\10. Invalid Number.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\10. Invalid Number.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Lab\10. Invalid Number\obj\Debug\net6.0\ref\10. Invalid Number.dll
