@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\bin\Debug\net6.0\04. Exam.exe
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\bin\Debug\net6.0\04. Exam.deps.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\bin\Debug\net6.0\04. Exam.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\bin\Debug\net6.0\04. Exam.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\bin\Debug\net6.0\04. Exam.pdb
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.sourcelink.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\refint\04. Exam.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.pdb
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\04. Exam.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\04. Exam\obj\Debug\net6.0\ref\04. Exam.dll

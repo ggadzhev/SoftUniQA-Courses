@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\bin\Debug\net6.0\06. Max Number.exe
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\bin\Debug\net6.0\06. Max Number.deps.json
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\bin\Debug\net6.0\06. Max Number.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\bin\Debug\net6.0\06. Max Number.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\bin\Debug\net6.0\06. Max Number.pdb
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\06. Max Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\06. Max Number.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\06. Max Number.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\06. Max Number.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\06. Max Number.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\refint\06. Max Number.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\06. Max Number.pdb
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\06. Max Number.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\06. Max Number\obj\Debug\net6.0\ref\06. Max Number.dll

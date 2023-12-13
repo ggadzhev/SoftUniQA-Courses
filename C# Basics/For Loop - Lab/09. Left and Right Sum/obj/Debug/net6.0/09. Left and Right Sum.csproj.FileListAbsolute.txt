@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.exe
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.deps.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\bin\Debug\net6.0\09. Left and Right Sum.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\refint\09. Left and Right Sum.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\09. Left and Right Sum.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\09. Left and Right Sum\obj\Debug\net6.0\ref\09. Left and Right Sum.dll

@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.exe
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.deps.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\bin\Debug\net6.0\10. Odd Even Sum.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\refint\10. Odd Even Sum.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\10. Odd Even Sum.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\10. Odd Even Sum\obj\Debug\net6.0\ref\10. Odd Even Sum.dll

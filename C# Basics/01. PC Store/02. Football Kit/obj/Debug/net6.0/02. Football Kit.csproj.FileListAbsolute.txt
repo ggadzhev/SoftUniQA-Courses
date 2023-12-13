@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\bin\Debug\net6.0\02. Football Kit.exe
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\bin\Debug\net6.0\02. Football Kit.deps.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\bin\Debug\net6.0\02. Football Kit.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\bin\Debug\net6.0\02. Football Kit.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\bin\Debug\net6.0\02. Football Kit.pdb
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.sourcelink.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\refint\02. Football Kit.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.pdb
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\02. Football Kit.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\02. Football Kit\obj\Debug\net6.0\ref\02. Football Kit.dll

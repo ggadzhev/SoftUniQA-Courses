@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net6.0\01. Numbers from 1 to 100.exe
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net6.0\01. Numbers from 1 to 100.deps.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net6.0\01. Numbers from 1 to 100.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net6.0\01. Numbers from 1 to 100.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\bin\Debug\net6.0\01. Numbers from 1 to 100.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\01. Numbers from 1 to 100.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\01. Numbers from 1 to 100.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\01. Numbers from 1 to 100.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\01. Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\01. Numbers from 1 to 100.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\refint\01. Numbers from 1 to 100.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\01. Numbers from 1 to 100.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\01. Numbers from 1 to 100.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\01. Numbers from 1 to 100\obj\Debug\net6.0\ref\01. Numbers from 1 to 100.dll

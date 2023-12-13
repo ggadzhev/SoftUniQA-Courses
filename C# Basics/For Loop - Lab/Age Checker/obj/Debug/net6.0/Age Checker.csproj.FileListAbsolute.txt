@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\bin\Debug\net6.0\Age Checker.exe
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\bin\Debug\net6.0\Age Checker.deps.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\bin\Debug\net6.0\Age Checker.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\bin\Debug\net6.0\Age Checker.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\bin\Debug\net6.0\Age Checker.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\Age Checker.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\Age Checker.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\Age Checker.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\Age Checker.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\Age Checker.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\refint\Age Checker.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\Age Checker.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\Age Checker.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\Age Checker\obj\Debug\net6.0\ref\Age Checker.dll

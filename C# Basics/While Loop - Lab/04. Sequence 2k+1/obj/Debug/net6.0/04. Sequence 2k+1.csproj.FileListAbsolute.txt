@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net6.0\04. Sequence 2k+1.exe
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net6.0\04. Sequence 2k+1.deps.json
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net6.0\04. Sequence 2k+1.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net6.0\04. Sequence 2k+1.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\bin\Debug\net6.0\04. Sequence 2k+1.pdb
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\04. Sequence 2k+1.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\04. Sequence 2k+1.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\04. Sequence 2k+1.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\04. Sequence 2k+1.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\04. Sequence 2k+1.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\refint\04. Sequence 2k+1.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\04. Sequence 2k+1.pdb
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\04. Sequence 2k+1.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\04. Sequence 2k+1\obj\Debug\net6.0\ref\04. Sequence 2k+1.dll

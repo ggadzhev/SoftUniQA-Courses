@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net6.0\06. Operations Between Numbers.exe
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net6.0\06. Operations Between Numbers.deps.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net6.0\06. Operations Between Numbers.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net6.0\06. Operations Between Numbers.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net6.0\06. Operations Between Numbers.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\06. Operations Between Numbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\06. Operations Between Numbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\06. Operations Between Numbers.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\refint\06. Operations Between Numbers.dll
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\06. Operations Between Numbers.pdb
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\06. Operations Between Numbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net6.0\ref\06. Operations Between Numbers.dll

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\bin\Debug\net6.0\03. Courier Express.exe
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\bin\Debug\net6.0\03. Courier Express.deps.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\bin\Debug\net6.0\03. Courier Express.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\bin\Debug\net6.0\03. Courier Express.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\bin\Debug\net6.0\03. Courier Express.pdb
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.sourcelink.json
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\refint\03. Courier Express.dll
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.pdb
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\03. Courier Express.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\01. PC Store\03. Courier Express\obj\Debug\net6.0\ref\03. Courier Express.dll

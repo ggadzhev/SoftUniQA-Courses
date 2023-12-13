@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.exe
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.deps.json
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.dll
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\bin\Debug\net6.0\04. Clever Lily.pdb
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.dll
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\refint\04. Clever Lily.dll
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.pdb
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\04. Clever Lily.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\01. Numbers Ending in 7\04. Clever Lily\obj\Debug\net6.0\ref\04. Clever Lily.dll

@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\bin\Debug\net6.0\01. Read Text.exe
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\bin\Debug\net6.0\01. Read Text.deps.json
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\bin\Debug\net6.0\01. Read Text.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\bin\Debug\net6.0\01. Read Text.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\bin\Debug\net6.0\01. Read Text.pdb
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\01. Read Text.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\01. Read Text.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\01. Read Text.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\01. Read Text.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\01. Read Text.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\refint\01. Read Text.dll
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\01. Read Text.pdb
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\01. Read Text.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\While Loop - Lab\01. Read Text\obj\Debug\net6.0\ref\01. Read Text.dll

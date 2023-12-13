@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.exe
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.deps.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\bin\Debug\net6.0\05. Character Sequence.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\refint\05. Character Sequence.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\05. Character Sequence.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\05. Character Sequence\obj\Debug\net6.0\ref\05. Character Sequence.dll

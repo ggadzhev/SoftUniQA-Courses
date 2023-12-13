@@ -1,0 +1,14 @@
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\net6.0\03. Numbers 1 to N with Step 3.exe
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\net6.0\03. Numbers 1 to N with Step 3.deps.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\net6.0\03. Numbers 1 to N with Step 3.runtimeconfig.json
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\net6.0\03. Numbers 1 to N with Step 3.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\bin\Debug\net6.0\03. Numbers 1 to N with Step 3.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\03. Numbers 1 to N with Step 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\03. Numbers 1 to N with Step 3.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\03. Numbers 1 to N with Step 3.AssemblyInfo.cs
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\03. Numbers 1 to N with Step 3.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\03. Numbers 1 to N with Step 3.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\refint\03. Numbers 1 to N with Step 3.dll
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\03. Numbers 1 to N with Step 3.pdb
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\03. Numbers 1 to N with Step 3.genruntimeconfig.cache
+F:\SoftUniQA-Courses\C# Basics\For Loop - Lab\03. Numbers 1 to N with Step 3\obj\Debug\net6.0\ref\03. Numbers 1 to N with Step 3.dll
