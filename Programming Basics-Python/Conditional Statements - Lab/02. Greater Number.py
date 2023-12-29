@@ -1,7 +1,7 @@
-number_one = int(input())
-number_two = int(input())
+number_one = int(input("Enter first number:"))
+number_two = int(input("Enter second number:"))
 
 if number_one > number_two:
-    print(number_one)
+    print(f"The highest number is:{number_one}")
 else:
-    print(number_two)
+    print(f"The higher number is:{number_two}")

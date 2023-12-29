@@ -1,6 +1,6 @@
 import math
 
-figure = str(input())
+figure = str(input("Please enter a type of figure:"))
 
 if figure == "square":
     side_a = float(input())
@@ -16,7 +16,7 @@ elif figure == "circle":
     area = math.pi * math.pow(radius, 2)
     print(f"{area:.3f}")
 elif figure == "triangle":
-    side_a = float(input()) 
+    side_a = float(input())
     height = float(input())
     area = side_a * height / 2
     print(f"{area:.3f}")

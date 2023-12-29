@@ -1,4 +1,4 @@
-current_speed = float(input())
+current_speed = float(input("Current speed:"))
 
 if current_speed <= 10:
     print('slow')

@@ -1,4 +1,4 @@
-number = int(input())
+number = int(input("Enter your number:"))
 
 if number < 100:
     print('Less than 100')
