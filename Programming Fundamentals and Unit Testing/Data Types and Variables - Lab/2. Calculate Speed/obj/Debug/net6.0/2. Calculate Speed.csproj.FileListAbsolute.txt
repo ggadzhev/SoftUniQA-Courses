@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\bin\Debug\net6.0\2. Calculate Speed.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\bin\Debug\net6.0\2. Calculate Speed.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\bin\Debug\net6.0\2. Calculate Speed.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\bin\Debug\net6.0\2. Calculate Speed.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\bin\Debug\net6.0\2. Calculate Speed.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\refint\2. Calculate Speed.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\2. Calculate Speed.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\2. Calculate Speed\obj\Debug\net6.0\ref\2. Calculate Speed.dll

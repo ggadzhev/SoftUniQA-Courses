@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\bin\Debug\net6.0\1. Days in Minutes.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\refint\1. Days in Minutes.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\1. Days in Minutes.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\1. Days in Minutes\obj\Debug\net6.0\ref\1. Days in Minutes.dll

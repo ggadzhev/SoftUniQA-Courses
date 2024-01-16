@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\bin\Debug\net6.0\1. Convertor - USD to EUR.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\bin\Debug\net6.0\1. Convertor - USD to EUR.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\bin\Debug\net6.0\1. Convertor - USD to EUR.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\bin\Debug\net6.0\1. Convertor - USD to EUR.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\bin\Debug\net6.0\1. Convertor - USD to EUR.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\refint\1. Convertor - USD to EUR.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\1. Convertor - USD to EUR.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\1. Convertor - USD to EUR\obj\Debug\net6.0\ref\1. Convertor - USD to EUR.dll

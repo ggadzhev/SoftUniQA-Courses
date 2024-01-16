@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\bin\Debug\net6.0\5. Town Info.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\refint\5. Town Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\5. Town Info.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\5. Town Info\obj\Debug\net6.0\ref\5. Town Info.dll

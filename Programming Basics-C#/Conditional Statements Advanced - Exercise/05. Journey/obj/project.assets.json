@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
+      "projectUniqueName": "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
       "projectName": "05. Journey",
-      "projectPath": "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
+      "projectPath": "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.csproj",
       "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-      "outputPath": "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\05. Journey\\obj\\",
+      "outputPath": "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\05. Journey\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Georgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

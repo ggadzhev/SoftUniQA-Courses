@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\bin\Debug\net6.0\1. Text Reading.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\bin\Debug\net6.0\1. Text Reading.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\bin\Debug\net6.0\1. Text Reading.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\bin\Debug\net6.0\1. Text Reading.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\bin\Debug\net6.0\1. Text Reading.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\refint\1. Text Reading.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\1. Text Reading.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands and Visual Studio - Exercise\1. Text Reading\obj\Debug\net6.0\ref\1. Text Reading.dll

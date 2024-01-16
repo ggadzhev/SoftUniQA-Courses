@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\bin\Debug\net6.0\05. Square of 7x7 Stars.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\bin\Debug\net6.0\05. Square of 7x7 Stars.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\bin\Debug\net6.0\05. Square of 7x7 Stars.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\bin\Debug\net6.0\05. Square of 7x7 Stars.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\bin\Debug\net6.0\05. Square of 7x7 Stars.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\refint\05. Square of 7x7 Stars.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\05. Square of 7x7 Stars.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\05. Square of 7x7 Stars\obj\Debug\net6.0\ref\05. Square of 7x7 Stars.dll

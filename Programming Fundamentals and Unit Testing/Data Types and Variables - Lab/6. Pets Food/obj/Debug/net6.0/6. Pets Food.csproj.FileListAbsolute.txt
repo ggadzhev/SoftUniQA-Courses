@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\bin\Debug\net6.0\6. Pets Food.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\bin\Debug\net6.0\6. Pets Food.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\bin\Debug\net6.0\6. Pets Food.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\bin\Debug\net6.0\6. Pets Food.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\bin\Debug\net6.0\6. Pets Food.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\refint\6. Pets Food.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\6. Pets Food.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\6. Pets Food\obj\Debug\net6.0\ref\6. Pets Food.dll

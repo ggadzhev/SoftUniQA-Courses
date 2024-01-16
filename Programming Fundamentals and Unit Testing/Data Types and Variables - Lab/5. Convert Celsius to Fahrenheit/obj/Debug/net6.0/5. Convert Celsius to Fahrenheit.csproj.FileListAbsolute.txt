@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\bin\Debug\net6.0\5. Convert Celsius to Fahrenheit.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\refint\5. Convert Celsius to Fahrenheit.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\5. Convert Celsius to Fahrenheit.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\5. Convert Celsius to Fahrenheit\obj\Debug\net6.0\ref\5. Convert Celsius to Fahrenheit.dll

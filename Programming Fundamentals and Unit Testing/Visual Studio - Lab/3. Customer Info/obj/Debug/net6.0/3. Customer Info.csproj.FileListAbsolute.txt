@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\bin\Debug\net6.0\3. Customer Info.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\refint\3. Customer Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\3. Customer Info.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\3. Customer Info\obj\Debug\net6.0\ref\3. Customer Info.dll

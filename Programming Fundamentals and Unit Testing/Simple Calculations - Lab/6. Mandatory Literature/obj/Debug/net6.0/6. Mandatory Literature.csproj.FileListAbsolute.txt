@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\bin\Debug\net6.0\6. Mandatory Literature.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\refint\6. Mandatory Literature.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\6. Mandatory Literature.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Calculations - Lab\6. Mandatory Literature\obj\Debug\net6.0\ref\6. Mandatory Literature.dll

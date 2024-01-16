@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\bin\Debug\net6.0\1. Freezing Weather.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\bin\Debug\net6.0\1. Freezing Weather.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\bin\Debug\net6.0\1. Freezing Weather.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\bin\Debug\net6.0\1. Freezing Weather.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\bin\Debug\net6.0\1. Freezing Weather.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\refint\1. Freezing Weather.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\1. Freezing Weather.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\1. Freezing Weather\obj\Debug\net6.0\ref\1. Freezing Weather.dll

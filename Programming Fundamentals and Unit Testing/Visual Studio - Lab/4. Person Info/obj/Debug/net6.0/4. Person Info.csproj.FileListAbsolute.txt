@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\bin\Debug\net6.0\4. Person Info.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\bin\Debug\net6.0\4. Person Info.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\bin\Debug\net6.0\4. Person Info.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\bin\Debug\net6.0\4. Person Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\bin\Debug\net6.0\4. Person Info.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\refint\4. Person Info.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\4. Person Info.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\4. Person Info\obj\Debug\net6.0\ref\4. Person Info.dll

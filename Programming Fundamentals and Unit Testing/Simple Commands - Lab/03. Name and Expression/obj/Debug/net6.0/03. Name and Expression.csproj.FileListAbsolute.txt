@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\bin\Debug\net6.0\03. Name and Expression.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\bin\Debug\net6.0\03. Name and Expression.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\bin\Debug\net6.0\03. Name and Expression.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\bin\Debug\net6.0\03. Name and Expression.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\bin\Debug\net6.0\03. Name and Expression.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\refint\03. Name and Expression.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\03. Name and Expression.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\03. Name and Expression\obj\Debug\net6.0\ref\03. Name and Expression.dll

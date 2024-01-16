@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {}
+    "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {}
   },
   "projects": {
-    "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {
+    "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
+        "projectUniqueName": "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
         "projectName": "06. Operations Between Numbers",
-        "projectPath": "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
+        "projectPath": "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "F:\\SoftUniQA-Courses\\C# Basics\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\obj\\",
+        "outputPath": "F:\\SoftUniQA-Courses\\Programming Basics-C#\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Georgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

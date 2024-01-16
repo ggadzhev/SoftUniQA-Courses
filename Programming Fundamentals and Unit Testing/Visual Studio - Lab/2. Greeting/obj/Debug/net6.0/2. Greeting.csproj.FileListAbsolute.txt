@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\bin\Debug\net6.0\2. Greeting.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\bin\Debug\net6.0\2. Greeting.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\bin\Debug\net6.0\2. Greeting.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\bin\Debug\net6.0\2. Greeting.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\bin\Debug\net6.0\2. Greeting.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\refint\2. Greeting.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\2. Greeting.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Visual Studio - Lab\2. Greeting\obj\Debug\net6.0\ref\2. Greeting.dll

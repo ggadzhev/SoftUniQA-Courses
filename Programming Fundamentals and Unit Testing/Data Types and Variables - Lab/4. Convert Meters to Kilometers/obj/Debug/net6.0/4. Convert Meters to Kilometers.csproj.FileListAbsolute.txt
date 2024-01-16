@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\bin\Debug\net6.0\4. Convert Meters to Kilometers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\refint\4. Convert Meters to Kilometers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\4. Convert Meters to Kilometers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\4. Convert Meters to Kilometers\obj\Debug\net6.0\ref\4. Convert Meters to Kilometers.dll

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\bin\Debug\net6.0\7. Projects Creation.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\refint\7. Projects Creation.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\7. Projects Creation.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\7. Projects Creation\obj\Debug\net6.0\ref\7. Projects Creation.dll

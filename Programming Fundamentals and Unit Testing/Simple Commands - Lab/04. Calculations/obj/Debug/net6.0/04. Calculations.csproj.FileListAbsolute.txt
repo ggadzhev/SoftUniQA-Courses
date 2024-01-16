@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\bin\Debug\net6.0\04. Calculations.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\bin\Debug\net6.0\04. Calculations.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\bin\Debug\net6.0\04. Calculations.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\bin\Debug\net6.0\04. Calculations.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\bin\Debug\net6.0\04. Calculations.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\refint\04. Calculations.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\04. Calculations.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Commands - Lab\04. Calculations\obj\Debug\net6.0\ref\04. Calculations.dll

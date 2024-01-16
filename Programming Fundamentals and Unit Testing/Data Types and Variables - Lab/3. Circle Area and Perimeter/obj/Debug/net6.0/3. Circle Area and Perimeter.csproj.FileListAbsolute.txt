@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\bin\Debug\net6.0\3. Circle Area and Perimeter.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\refint\3. Circle Area and Perimeter.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\3. Circle Area and Perimeter.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types and Variables - Lab\3. Circle Area and Perimeter\obj\Debug\net6.0\ref\3. Circle Area and Perimeter.dll
