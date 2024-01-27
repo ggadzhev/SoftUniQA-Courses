@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\bin\Debug\net6.0\03. Food Delivery.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\bin\Debug\net6.0\03. Food Delivery.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\bin\Debug\net6.0\03. Food Delivery.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\bin\Debug\net6.0\03. Food Delivery.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\bin\Debug\net6.0\03. Food Delivery.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\refint\03. Food Delivery.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\03. Food Delivery.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\03. Food Delivery\obj\Debug\net6.0\ref\03. Food Delivery.dll

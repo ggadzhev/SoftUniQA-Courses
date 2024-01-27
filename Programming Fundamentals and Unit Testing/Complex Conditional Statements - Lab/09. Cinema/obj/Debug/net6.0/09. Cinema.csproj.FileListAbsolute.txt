@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\bin\Debug\net6.0\09. Cinema.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\refint\09. Cinema.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\09. Cinema.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\09. Cinema\obj\Debug\net6.0\ref\09. Cinema.dll

@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int waterTemperature = int.Parse(Console.ReadLine());
+
+if (waterTemperature > 100)
+{
+    Console.WriteLine("The water is boiling");
+}
+else
+{
+    Console.WriteLine("The water is not hot enough");
+}

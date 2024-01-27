@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\bin\Debug\net6.0\02. Redecorating.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\bin\Debug\net6.0\02. Redecorating.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\bin\Debug\net6.0\02. Redecorating.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\bin\Debug\net6.0\02. Redecorating.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\bin\Debug\net6.0\02. Redecorating.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\refint\02. Redecorating.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\02. Redecorating.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Redecorating\obj\Debug\net6.0\ref\02. Redecorating.dll

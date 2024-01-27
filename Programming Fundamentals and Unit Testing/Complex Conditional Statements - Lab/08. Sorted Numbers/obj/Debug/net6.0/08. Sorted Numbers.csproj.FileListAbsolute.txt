@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\bin\Debug\net6.0\08. Sorted Numbers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\bin\Debug\net6.0\08. Sorted Numbers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\bin\Debug\net6.0\08. Sorted Numbers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\bin\Debug\net6.0\08. Sorted Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\bin\Debug\net6.0\08. Sorted Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\refint\08. Sorted Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\08. Sorted Numbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\08. Sorted Numbers\obj\Debug\net6.0\ref\08. Sorted Numbers.dll

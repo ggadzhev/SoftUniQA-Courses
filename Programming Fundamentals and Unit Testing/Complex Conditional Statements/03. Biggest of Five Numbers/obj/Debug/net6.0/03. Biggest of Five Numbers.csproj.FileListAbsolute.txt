@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\bin\Debug\net6.0\03. Biggest of Five Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\refint\03. Biggest of Five Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\03. Biggest of Five Numbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\03. Biggest of Five Numbers\obj\Debug\net6.0\ref\03. Biggest of Five Numbers.dll

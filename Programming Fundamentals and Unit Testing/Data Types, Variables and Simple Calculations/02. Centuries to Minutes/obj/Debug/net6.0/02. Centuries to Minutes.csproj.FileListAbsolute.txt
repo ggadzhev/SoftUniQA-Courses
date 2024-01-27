@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\bin\Debug\net6.0\02. Centuries to Minutes.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\bin\Debug\net6.0\02. Centuries to Minutes.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\bin\Debug\net6.0\02. Centuries to Minutes.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\bin\Debug\net6.0\02. Centuries to Minutes.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\bin\Debug\net6.0\02. Centuries to Minutes.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\refint\02. Centuries to Minutes.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\02. Centuries to Minutes.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\02. Centuries to Minutes\obj\Debug\net6.0\ref\02. Centuries to Minutes.dll

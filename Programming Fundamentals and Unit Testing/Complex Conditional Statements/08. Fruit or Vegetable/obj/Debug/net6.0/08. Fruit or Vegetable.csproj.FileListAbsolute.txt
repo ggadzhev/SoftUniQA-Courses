@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\bin\Debug\net6.0\08. Fruit or Vegetable.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\bin\Debug\net6.0\08. Fruit or Vegetable.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\bin\Debug\net6.0\08. Fruit or Vegetable.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\bin\Debug\net6.0\08. Fruit or Vegetable.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\bin\Debug\net6.0\08. Fruit or Vegetable.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\refint\08. Fruit or Vegetable.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\08. Fruit or Vegetable.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\08. Fruit or Vegetable\obj\Debug\net6.0\ref\08. Fruit or Vegetable.dll

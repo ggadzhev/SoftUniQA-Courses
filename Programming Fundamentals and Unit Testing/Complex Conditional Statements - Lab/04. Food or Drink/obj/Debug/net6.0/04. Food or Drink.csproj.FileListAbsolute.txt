@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\bin\Debug\net6.0\04. Food or Drink.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\refint\04. Food or Drink.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\04. Food or Drink.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\04. Food or Drink\obj\Debug\net6.0\ref\04. Food or Drink.dll

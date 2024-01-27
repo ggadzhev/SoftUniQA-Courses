@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\bin\Debug\net6.0\New.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\bin\Debug\net6.0\New.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\bin\Debug\net6.0\New.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\bin\Debug\net6.0\New.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\bin\Debug\net6.0\New.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\refint\New.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\New.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\New\obj\Debug\net6.0\ref\New.dll

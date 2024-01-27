@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\bin\Debug\net6.0\05. Invalid Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\refint\05. Invalid Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\05. Invalid Number.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\05. Invalid Number\obj\Debug\net6.0\ref\05. Invalid Number.dll

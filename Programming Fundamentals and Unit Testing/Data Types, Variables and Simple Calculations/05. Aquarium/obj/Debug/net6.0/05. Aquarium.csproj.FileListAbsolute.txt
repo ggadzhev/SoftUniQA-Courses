@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\bin\Debug\net6.0\05. Aquarium.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\bin\Debug\net6.0\05. Aquarium.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\bin\Debug\net6.0\05. Aquarium.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\bin\Debug\net6.0\05. Aquarium.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\bin\Debug\net6.0\05. Aquarium.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\refint\05. Aquarium.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\05. Aquarium.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\05. Aquarium\obj\Debug\net6.0\ref\05. Aquarium.dll

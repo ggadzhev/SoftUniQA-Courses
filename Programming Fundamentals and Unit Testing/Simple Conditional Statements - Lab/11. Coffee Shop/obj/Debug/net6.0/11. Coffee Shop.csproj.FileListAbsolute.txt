@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\bin\Debug\net6.0\11. Coffee Shop.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\refint\11. Coffee Shop.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\11. Coffee Shop.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\11. Coffee Shop\obj\Debug\net6.0\ref\11. Coffee Shop.dll

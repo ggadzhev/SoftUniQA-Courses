@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\bin\Debug\net6.0\06. Product of Three Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\refint\06. Product of Three Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\06. Product of Three Numbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\06. Product of Three Numbers\obj\Debug\net6.0\ref\06. Product of Three Numbers.dll

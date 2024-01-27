@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\bin\Debug\net6.0\03. Bonus Score.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\refint\03. Bonus Score.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\03. Bonus Score.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements - Lab\03. Bonus Score\obj\Debug\net6.0\ref\03. Bonus Score.dll

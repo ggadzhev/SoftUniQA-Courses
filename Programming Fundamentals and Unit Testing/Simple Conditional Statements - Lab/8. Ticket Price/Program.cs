@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string ticketType = Console.ReadLine();
+
+if (ticketType == "student")
+{
+    Console.WriteLine("$1.00");
+}
+else if (ticketType == "regular")
+{
+    Console.WriteLine("$1.60");
+}
+else
+{
+    Console.WriteLine("Invalid ticket type!");
+}

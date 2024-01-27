@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\bin\Debug\net6.0\04. Basketball Equipment.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\bin\Debug\net6.0\04. Basketball Equipment.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\bin\Debug\net6.0\04. Basketball Equipment.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\bin\Debug\net6.0\04. Basketball Equipment.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\bin\Debug\net6.0\04. Basketball Equipment.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\refint\04. Basketball Equipment.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\04. Basketball Equipment.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\04. Basketball Equipment\obj\Debug\net6.0\ref\04. Basketball Equipment.dll

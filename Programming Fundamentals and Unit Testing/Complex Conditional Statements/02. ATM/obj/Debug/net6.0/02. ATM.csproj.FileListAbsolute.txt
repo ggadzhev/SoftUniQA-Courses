@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\bin\Debug\net6.0\02. ATM.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\refint\02. ATM.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\02. ATM.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\02. ATM\obj\Debug\net6.0\ref\02. ATM.dll

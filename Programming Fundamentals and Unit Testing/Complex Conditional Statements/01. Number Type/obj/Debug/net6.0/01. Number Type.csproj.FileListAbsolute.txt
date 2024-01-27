@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\bin\Debug\net6.0\01. Number Type.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\refint\01. Number Type.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\01. Number Type.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\01. Number Type\obj\Debug\net6.0\ref\01. Number Type.dll

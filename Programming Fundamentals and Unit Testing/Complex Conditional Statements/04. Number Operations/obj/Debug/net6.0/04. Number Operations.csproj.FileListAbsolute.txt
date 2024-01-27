@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\bin\Debug\net6.0\04. Number Operations.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\refint\04. Number Operations.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\04. Number Operations.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Complex Conditional Statements\04. Number Operations\obj\Debug\net6.0\ref\04. Number Operations.dll

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\bin\Debug\net6.0\10. Valid Triangle.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\bin\Debug\net6.0\10. Valid Triangle.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\bin\Debug\net6.0\10. Valid Triangle.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\bin\Debug\net6.0\10. Valid Triangle.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\bin\Debug\net6.0\10. Valid Triangle.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\refint\10. Valid Triangle.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\10. Valid Triangle.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Simple Conditional Statements - Lab\10. Valid Triangle\obj\Debug\net6.0\ref\10. Valid Triangle.dll

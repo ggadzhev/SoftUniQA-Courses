@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\bin\Debug\net6.0\01. Deposit Calculator.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\bin\Debug\net6.0\01. Deposit Calculator.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\bin\Debug\net6.0\01. Deposit Calculator.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\bin\Debug\net6.0\01. Deposit Calculator.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\bin\Debug\net6.0\01. Deposit Calculator.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\refint\01. Deposit Calculator.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\01. Deposit Calculator.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Data Types, Variables and Simple Calculations\01. Deposit Calculator\obj\Debug\net6.0\ref\01. Deposit Calculator.dll
