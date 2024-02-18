@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\bin\Debug\net6.0\05. Repeat String.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\refint\05. Repeat String.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\05. Repeat String.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\05. Repeat String\obj\Debug\net6.0\ref\05. Repeat String.dll

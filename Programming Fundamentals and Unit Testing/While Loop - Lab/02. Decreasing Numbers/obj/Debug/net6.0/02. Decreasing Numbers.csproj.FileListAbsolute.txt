@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\bin\Debug\net6.0\02. Decreasing Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\refint\02. Decreasing Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\02. Decreasing Numbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\02. Decreasing Numbers\obj\Debug\net6.0\ref\02. Decreasing Numbers.dll

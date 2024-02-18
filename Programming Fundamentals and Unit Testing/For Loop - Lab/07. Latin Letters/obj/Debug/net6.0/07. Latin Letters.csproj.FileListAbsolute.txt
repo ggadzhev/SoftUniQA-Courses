@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\bin\Debug\net6.0\07. Latin Letters.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\bin\Debug\net6.0\07. Latin Letters.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\bin\Debug\net6.0\07. Latin Letters.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\bin\Debug\net6.0\07. Latin Letters.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\bin\Debug\net6.0\07. Latin Letters.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\refint\07. Latin Letters.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\07. Latin Letters.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\07. Latin Letters\obj\Debug\net6.0\ref\07. Latin Letters.dll

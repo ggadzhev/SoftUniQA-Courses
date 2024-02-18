@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\bin\Debug\net6.0\04. List Manipulation Basics.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\refint\04. List Manipulation Basics.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\04. List Manipulation Basics.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\04. List Manipulation Basics\obj\Debug\net6.0\ref\04. List Manipulation Basics.dll

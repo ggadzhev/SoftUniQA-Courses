@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\bin\Debug\net6.0\04. Numbers Ending in 7.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\bin\Debug\net6.0\04. Numbers Ending in 7.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\bin\Debug\net6.0\04. Numbers Ending in 7.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\bin\Debug\net6.0\04. Numbers Ending in 7.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\bin\Debug\net6.0\04. Numbers Ending in 7.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\refint\04. Numbers Ending in 7.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\04. Numbers Ending in 7.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\04. Numbers Ending in 7\obj\Debug\net6.0\ref\04. Numbers Ending in 7.dll

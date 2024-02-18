@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\bin\Debug\net6.0\03. Odd Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\refint\03. Odd Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\03. Odd Number.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\While Loop - Lab\03. Odd Number\obj\Debug\net6.0\ref\03. Odd Number.dll

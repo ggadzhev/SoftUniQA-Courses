@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\bin\Debug\net6.0\06. Exam Countdown.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\refint\06. Exam Countdown.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\06. Exam Countdown.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\06. Exam Countdown\obj\Debug\net6.0\ref\06. Exam Countdown.dll

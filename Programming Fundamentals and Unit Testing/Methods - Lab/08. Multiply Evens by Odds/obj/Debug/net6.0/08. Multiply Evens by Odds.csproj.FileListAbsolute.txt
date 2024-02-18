@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\bin\Debug\net6.0\08. Multiply Evens by Odds.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\bin\Debug\net6.0\08. Multiply Evens by Odds.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\bin\Debug\net6.0\08. Multiply Evens by Odds.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\bin\Debug\net6.0\08. Multiply Evens by Odds.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\bin\Debug\net6.0\08. Multiply Evens by Odds.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\refint\08. Multiply Evens by Odds.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\08. Multiply Evens by Odds.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\08. Multiply Evens by Odds\obj\Debug\net6.0\ref\08. Multiply Evens by Odds.dll

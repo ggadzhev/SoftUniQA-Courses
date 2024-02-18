@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\bin\Debug\net6.0\03. Sum Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\refint\03. Sum Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\03. Sum Numbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\03. Sum Numbers\obj\Debug\net6.0\ref\03. Sum Numbers.dll

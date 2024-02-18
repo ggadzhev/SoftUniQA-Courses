@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\bin\Debug\net6.0\05. Division to 2, 3 and 4.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\refint\05. Division to 2, 3 and 4.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\05. Division to 2, 3 and 4.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\05. Division to 2, 3 and 4\obj\Debug\net6.0\ref\05. Division to 2, 3 and 4.dll

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\bin\Debug\net6.0\05. Equal Arrays.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\refint\05. Equal Arrays.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\05. Equal Arrays.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\05. Equal Arrays\obj\Debug\net6.0\ref\05. Equal Arrays.dll

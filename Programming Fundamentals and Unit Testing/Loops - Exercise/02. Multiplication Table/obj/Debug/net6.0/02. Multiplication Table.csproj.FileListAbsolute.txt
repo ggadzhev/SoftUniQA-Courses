@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\bin\Debug\net6.0\02. Multiplication Table.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\refint\02. Multiplication Table.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\02. Multiplication Table.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\02. Multiplication Table\obj\Debug\net6.0\ref\02. Multiplication Table.dll

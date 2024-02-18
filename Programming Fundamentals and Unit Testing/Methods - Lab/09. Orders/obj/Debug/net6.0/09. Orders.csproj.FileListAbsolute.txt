@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\bin\Debug\net6.0\09. Orders.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\bin\Debug\net6.0\09. Orders.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\bin\Debug\net6.0\09. Orders.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\bin\Debug\net6.0\09. Orders.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\bin\Debug\net6.0\09. Orders.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\refint\09. Orders.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\09. Orders.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\09. Orders\obj\Debug\net6.0\ref\09. Orders.dll

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\bin\Debug\net6.0\06. Special Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\refint\06. Special Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\06. Special Number.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\06. Special Number\obj\Debug\net6.0\ref\06. Special Number.dll

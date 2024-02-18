@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\bin\Debug\net6.0\03. Printing Triangle.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\refint\03. Printing Triangle.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\03. Printing Triangle.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\03. Printing Triangle\obj\Debug\net6.0\ref\03. Printing Triangle.dll

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\bin\Debug\net6.0\02. Sum an Array.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\refint\02. Sum an Array.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\02. Sum an Array.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\02. Sum an Array\obj\Debug\net6.0\ref\02. Sum an Array.dll

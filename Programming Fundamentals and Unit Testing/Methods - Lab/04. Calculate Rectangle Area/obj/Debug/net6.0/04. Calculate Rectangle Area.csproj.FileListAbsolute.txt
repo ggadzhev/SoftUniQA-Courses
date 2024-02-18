@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\bin\Debug\net6.0\04. Calculate Rectangle Area.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\refint\04. Calculate Rectangle Area.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\04. Calculate Rectangle Area.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\04. Calculate Rectangle Area\obj\Debug\net6.0\ref\04. Calculate Rectangle Area.dll

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\bin\Debug\net6.0\06. Math Power.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\refint\06. Math Power.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\06. Math Power.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Methods - Lab\06. Math Power\obj\Debug\net6.0\ref\06. Math Power.dll

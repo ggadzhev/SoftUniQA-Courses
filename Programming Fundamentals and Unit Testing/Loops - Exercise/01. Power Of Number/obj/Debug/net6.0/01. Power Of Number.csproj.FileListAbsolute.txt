@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\bin\Debug\net6.0\01. Power Of Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\refint\01. Power Of Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\01. Power Of Number.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\01. Power Of Number\obj\Debug\net6.0\ref\01. Power Of Number.dll

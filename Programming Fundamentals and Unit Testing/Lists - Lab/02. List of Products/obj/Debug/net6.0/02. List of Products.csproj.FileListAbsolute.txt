@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\bin\Debug\net6.0\02. List of Products.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\refint\02. List of Products.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\02. List of Products.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\02. List of Products\obj\Debug\net6.0\ref\02. List of Products.dll

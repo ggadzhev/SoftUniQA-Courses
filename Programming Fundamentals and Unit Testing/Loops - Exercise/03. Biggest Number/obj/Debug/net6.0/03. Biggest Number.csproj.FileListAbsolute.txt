@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\bin\Debug\net6.0\03. Biggest Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\refint\03. Biggest Number.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\03. Biggest Number.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Loops - Exercise\03. Biggest Number\obj\Debug\net6.0\ref\03. Biggest Number.dll

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D3A258-D1E8-4A65-A3ED-D2B8A694A722}|04. List Manipulation Basics\\04. List Manipulation Basics.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\lists - lab\\04. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D3A258-D1E8-4A65-A3ED-D2B8A694A722}|04. List Manipulation Basics\\04. List Manipulation Basics.csproj|solutionrelative:04. list manipulation basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA379496-AEA2-4CA8-86D5-87AD237F578D}|05. List Manipulation Advanced\\05. List Manipulation Advanced.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\lists - lab\\05. list manipulation advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA379496-AEA2-4CA8-86D5-87AD237F578D}|05. List Manipulation Advanced\\05. List Manipulation Advanced.csproj|solutionrelative:05. list manipulation advanced\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CD462E4-CECE-492D-9B3D-0205AC4C0DB0}|01. Change List\\01. Change List.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\lists - lab\\01. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CD462E4-CECE-492D-9B3D-0205AC4C0DB0}|01. Change List\\01. Change List.csproj|solutionrelative:01. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D325DFC-6B1C-4508-8881-E4B2D7C89398}|03. Remove Negatives and Reverse\\03. Remove Negatives and Reverse.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\lists - lab\\03. remove negatives and reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D325DFC-6B1C-4508-8881-E4B2D7C89398}|03. Remove Negatives and Reverse\\03. Remove Negatives and Reverse.csproj|solutionrelative:03. remove negatives and reverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8256AD-AE77-428F-AA08-9030EA966F82}|02. List of Products\\02. List of Products.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\lists - lab\\02. list of products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8256AD-AE77-428F-AA08-9030EA966F82}|02. List of Products\\02. List of Products.csproj|solutionrelative:02. list of products\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295BF013-5BF3-4328-A63C-CCE95D0BDD00}|06.Lists excercise\\06.Lists excercise.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\lists - lab\\06.lists excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295BF013-5BF3-4328-A63C-CCE95D0BDD00}|06.Lists excercise\\06.Lists excercise.csproj|solutionrelative:06.lists excercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\01. Change List\\Program.cs",
+              "RelativeDocumentMoniker": "01. Change List\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\01. Change List\\Program.cs",
+              "RelativeToolTip": "01. Change List\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T17:07:37.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\02. List of Products\\Program.cs",
+              "RelativeDocumentMoniker": "02. List of Products\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\02. List of Products\\Program.cs",
+              "RelativeToolTip": "02. List of Products\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:26:41.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\05. List Manipulation Advanced\\Program.cs",
+              "RelativeDocumentMoniker": "05. List Manipulation Advanced\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\05. List Manipulation Advanced\\Program.cs",
+              "RelativeToolTip": "05. List Manipulation Advanced\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:26:37.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\03. Remove Negatives and Reverse\\Program.cs",
+              "RelativeDocumentMoniker": "03. Remove Negatives and Reverse\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\03. Remove Negatives and Reverse\\Program.cs",
+              "RelativeToolTip": "03. Remove Negatives and Reverse\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:26:35.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\04. List Manipulation Basics\\Program.cs",
+              "RelativeDocumentMoniker": "04. List Manipulation Basics\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\04. List Manipulation Basics\\Program.cs",
+              "RelativeToolTip": "04. List Manipulation Basics\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:26:29.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\06.Lists excercise\\Program.cs",
+              "RelativeDocumentMoniker": "06.Lists excercise\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Lists - Lab\\06.Lists excercise\\Program.cs",
+              "RelativeToolTip": "06.Lists excercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:26:21.631Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\bin\Debug\net6.0\06. Common Elements.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\refint\06. Common Elements.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\06. Common Elements.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Arrays - Lab\06. Common Elements\obj\Debug\net6.0\ref\06. Common Elements.dll

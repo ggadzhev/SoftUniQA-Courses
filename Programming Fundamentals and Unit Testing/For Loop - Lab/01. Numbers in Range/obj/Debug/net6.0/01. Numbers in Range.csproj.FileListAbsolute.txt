@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\bin\Debug\net6.0\01. Numbers in Range.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\refint\01. Numbers in Range.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\01. Numbers in Range.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\For Loop - Lab\01. Numbers in Range\obj\Debug\net6.0\ref\01. Numbers in Range.dll

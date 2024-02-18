@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\bin\Debug\net6.0\01. Change List.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\refint\01. Change List.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\01. Change List.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Lists - Lab\01. Change List\obj\Debug\net6.0\ref\01. Change List.dll
