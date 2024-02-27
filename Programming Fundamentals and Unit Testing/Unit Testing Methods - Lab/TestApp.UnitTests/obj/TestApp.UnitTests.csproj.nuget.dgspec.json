@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {}
+    "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {
+    "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp.UnitTests\\TestApp.UnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+        "projectUniqueName": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
         "projectName": "TestApp.UnitTests",
-        "projectPath": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+        "projectPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp.UnitTests\\obj\\",
+        "outputPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp.UnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Georgi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj": {
-                "projectPath": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj"
+              "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\TestApp.csproj": {
+                "projectPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\TestApp.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj": {
+    "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\TestApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj",
+        "projectUniqueName": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\TestApp.csproj",
         "projectName": "TestApp",
-        "projectPath": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj",
+        "projectPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\TestApp.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\obj\\",
+        "outputPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Georgi\\AppData\\Roaming\\NuGet\\NuGet.Config",

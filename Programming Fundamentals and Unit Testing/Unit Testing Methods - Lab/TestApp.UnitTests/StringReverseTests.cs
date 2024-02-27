@@ -9,19 +9,22 @@ public class StringReverseTests
     public void Test_Reverse_WhenGivenEmptyString_ReturnsEmptyString()
     {
         // Arrange
-        string input = "";
+        string reversedString = string.Empty;
+        string expectedResult = string.Empty;
+       
 
         // Act
-        string actual = StringReverse.Reverse(input);
+        string actualResult = StringReverse.Reverse(reversedString);
 
         // Assert
-        Assert.AreEqual("", actual);
+        Assert.AreEqual(expectedResult, actualResult);
     }
 
-    [Test]
-    public void Test_Reverse_WhenGivenSingleCharacterString_ReturnsSameCharacter()
+    [TestCase("a", "a")]
+    [TestCase("$", "$")]
+    [TestCase("A", "A")]
+    public void Test_Reverse_WhenGivenSingleCharacterString_ReturnsSameCharacter(string input, string expectedResult)
     {
-        string input = "a";
 
         //act
 
@@ -29,19 +32,20 @@ public class StringReverseTests
 
         //assert
 
-        Assert.AreEqual("a", actual);
-        Assert.AreEqual(1, actual.Length);
+        Assert.AreEqual(expectedResult, actual);
+       
     }
 
     [Test]
     public void Test_Reverse_WhenGivenNormalString_ReturnsReversedString()
     {
         string input = "test";
+        string expectedResult = "tset";
 
         string actual = StringReverse.Reverse(input);
 
-        Assert.AreEqual("tset", actual);
-        Assert.AreNotEqual("test", actual);
+        Assert.AreEqual(expectedResult, actual);
+        Assert.AreNotEqual(expectedResult, actual);
         Assert.AreEqual(input.Length, actual.Length);
         Assert.IsNotEmpty(actual);
         

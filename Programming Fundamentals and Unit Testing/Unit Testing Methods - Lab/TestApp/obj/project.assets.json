@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj",
+      "projectUniqueName": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\TestApp.csproj",
       "projectName": "TestApp",
-      "projectPath": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\TestApp.csproj",
+      "projectPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\TestApp.csproj",
       "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi\\Desktop\\07.1.Resources-Unit-Testing-Methods\\07.1.Resources-Unit-Testing-Methods\\TestApp\\obj\\",
+      "outputPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit Testing Methods - Lab\\TestApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Georgi\\AppData\\Roaming\\NuGet\\NuGet.Config",

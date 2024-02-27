@@ -46,7 +46,7 @@ public class CalculateTests
 
         //assert
         Assert.AreEqual(3, actual);
-        Assert.AreNotEqual(actual, 0);
+        Assert.AreNotEqual(actual, 1, "These two objects are not equal");
         Assert.IsTrue(actual > 0);
     }
 }

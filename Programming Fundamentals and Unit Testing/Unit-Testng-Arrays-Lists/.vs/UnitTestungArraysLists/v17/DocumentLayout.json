@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp.unittests\\reversetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\reversetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp.unittests\\adjacentequaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\adjacentequaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp\\adjacentequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\adjacentequal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp.unittests\\evenoddsubtractiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\evenoddsubtractiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp.unittests\\averagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\averagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp.unittests\\maxnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\maxnumbertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp.unittests\\gausstricktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{017C4ED8-02F8-4CBF-A99D-1F3BED235BF6}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\gausstricktests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp\\gausstrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\gausstrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp\\evenoddsubtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\evenoddsubtraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp\\maxnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\maxnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\average.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\unit-testng-arrays-lists\\testapp\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C99FECD-0437-4C14-869B-77C7AC4F40E1}|TestApp\\TestApp.csproj|solutionrelative:testapp\\reverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdjacentEqualTests.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\AdjacentEqualTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\AdjacentEqualTests.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\AdjacentEqualTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\AdjacentEqualTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:35:37.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MaxNumber.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\MaxNumber.cs",
+              "RelativeDocumentMoniker": "TestApp\\MaxNumber.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\MaxNumber.cs",
+              "RelativeToolTip": "TestApp\\MaxNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:31:43.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AverageTests.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\AverageTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\AverageTests.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\AverageTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\AverageTests.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:16:17.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Average.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\Average.cs",
+              "RelativeDocumentMoniker": "TestApp\\Average.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\Average.cs",
+              "RelativeToolTip": "TestApp\\Average.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:06:49.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MaxNumberTests.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\MaxNumberTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MaxNumberTests.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\MaxNumberTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MaxNumberTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:00:35.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GaussTrickTests.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\GaussTrickTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\GaussTrickTests.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\GaussTrickTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\GaussTrickTests.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAGAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:54:29.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvenOddSubtractionTests.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\EvenOddSubtractionTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\EvenOddSubtractionTests.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\EvenOddSubtractionTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\EvenOddSubtractionTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:51:26.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EvenOddSubtraction.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\EvenOddSubtraction.cs",
+              "RelativeDocumentMoniker": "TestApp\\EvenOddSubtraction.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\EvenOddSubtraction.cs",
+              "RelativeToolTip": "TestApp\\EvenOddSubtraction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:50:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReverseTests.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\ReverseTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ReverseTests.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp.UnitTests\\ReverseTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ReverseTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:17:46.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdjacentEqual.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\AdjacentEqual.cs",
+              "RelativeDocumentMoniker": "TestApp\\AdjacentEqual.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\AdjacentEqual.cs",
+              "RelativeToolTip": "TestApp\\AdjacentEqual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T21:35:34.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GaussTrick.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\GaussTrick.cs",
+              "RelativeDocumentMoniker": "TestApp\\GaussTrick.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\GaussTrick.cs",
+              "RelativeToolTip": "TestApp\\GaussTrick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T20:08:59.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reverse.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\Reverse.cs",
+              "RelativeDocumentMoniker": "TestApp\\Reverse.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Unit-Testng-Arrays-Lists\\TestApp\\Reverse.cs",
+              "RelativeToolTip": "TestApp\\Reverse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T20:17:13.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

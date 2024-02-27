@@ -8,16 +8,16 @@ public class GradesTests
     [TestCase(3.0, "Average")]
     [TestCase(3.50, "Good")]
     [TestCase(4.0, "Very Good")]
-    [TestCase(4.50, "Excellent")]                           //1st parameter, 2nd parameter)
-        public void Test_GradeAsWords_ReturnsCorrectString(double grade, string expected)
+    [TestCase(4.80, "Excellent")]                           //1st parameter, 2nd parameter)
+        public void Test_GradeAsWords_ReturnsCorrectString(double grade, string expectedResult)
     {
         // Arrange
                
         // Act
-        string actual = Grades.GradeAsWords(grade);
+        string actualResult = Grades.GradeAsWords(grade);
 
         // Assert
-        Assert.AreEqual(expected, actual);
+        Assert.AreEqual(expectedResult, actualResult);
     }
 
     [TestCase(2.99, "Fail")]

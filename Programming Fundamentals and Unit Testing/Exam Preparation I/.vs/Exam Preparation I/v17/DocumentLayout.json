@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation I\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D78E0A2A-9610-407C-868B-0CEEA7F1974A}|02. Middle Elements\\02. Middle Elements.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\exam preparation i\\02. middle elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D78E0A2A-9610-407C-868B-0CEEA7F1974A}|02. Middle Elements\\02. Middle Elements.csproj|solutionrelative:02. middle elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45DFCEF3-4599-4130-8F5A-3893D471733F}|01. Sum Factorial Even Digits\\01. Sum Factorial Even Digits.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\exam preparation i\\01. sum factorial even digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45DFCEF3-4599-4130-8F5A-3893D471733F}|01. Sum Factorial Even Digits\\01. Sum Factorial Even Digits.csproj|solutionrelative:01. sum factorial even digits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation I\\02. Middle Elements\\Program.cs",
+              "RelativeDocumentMoniker": "02. Middle Elements\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation I\\02. Middle Elements\\Program.cs",
+              "RelativeToolTip": "02. Middle Elements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:39:47.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation I\\01. Sum Factorial Even Digits\\Program.cs",
+              "RelativeDocumentMoniker": "01. Sum Factorial Even Digits\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation I\\01. Sum Factorial Even Digits\\Program.cs",
+              "RelativeToolTip": "01. Sum Factorial Even Digits\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T16:39:29.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
