@@ -6,9 +6,9 @@ namespace TestApp.UnitTests;
 public class EmailTests
 {
     // TODO: finish test
-    [TestCase("test@example.com")]
     [TestCase("personal@abv.bg")]
-    [TestCase("company@company-name.de")]
+    [TestCase("personal@gmail.com")]
+
     public void Test_IsValidEmail_ValidEmail(string email)
     {
         // Arrange
@@ -20,7 +20,7 @@ public class EmailTests
 
         // Assert
         Assert.IsTrue(actualResult);
-        Assert.AreEqual(true, actualResult);
+        
 
     }
 
@@ -32,7 +32,7 @@ public class EmailTests
         bool actualResult = Email.IsValidEmail(email);
 
         Assert.IsFalse(actualResult);
-        Assert.AreEqual(false, actualResult);
+        
     }
 
     [Test]

@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{692FEA94-FDBF-40DD-9EC8-0C8BC51D08C0}|09. Password Validator\\09. Password Validator.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\09. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{692FEA94-FDBF-40DD-9EC8-0C8BC51D08C0}|09. Password Validator\\09. Password Validator.csproj|solutionrelative:09. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65390498-AA10-4C76-916E-A7A5DEF5E815}|08. Multiplication Sign\\08. Multiplication Sign.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\08. multiplication sign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65390498-AA10-4C76-916E-A7A5DEF5E815}|08. Multiplication Sign\\08. Multiplication Sign.csproj|solutionrelative:08. multiplication sign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD10E6F-F852-4376-BF68-602E70AED024}|07. Factorial Division\\07. Factorial Division.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\07. factorial division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD10E6F-F852-4376-BF68-602E70AED024}|07. Factorial Division\\07. Factorial Division.csproj|solutionrelative:07. factorial division\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0877951-D072-4CFF-8BCE-AF04B5ECD050}|06. Vowels Count\\06. Vowels Count.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\06. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0877951-D072-4CFF-8BCE-AF04B5ECD050}|06. Vowels Count\\06. Vowels Count.csproj|solutionrelative:06. vowels count\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C596A744-52F3-4065-94B5-09E493024D1C}|05. Happy Numbers\\05. Happy Numbers.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\05. happy numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C596A744-52F3-4065-94B5-09E493024D1C}|05. Happy Numbers\\05. Happy Numbers.csproj|solutionrelative:05. happy numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A4902D-AFEB-4EB1-85B8-566AC8B5C30B}|04. Letter Combinations\\04. Letter Combinations.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\04. letter combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A4902D-AFEB-4EB1-85B8-566AC8B5C30B}|04. Letter Combinations\\04. Letter Combinations.csproj|solutionrelative:04. letter combinations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46DBFDB5-0A57-4B7F-9E05-440C32A94071}|03. Unique PIN Codes\\03. Unique PIN Codes.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\03. unique pin codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46DBFDB5-0A57-4B7F-9E05-440C32A94071}|03. Unique PIN Codes\\03. Unique PIN Codes.csproj|solutionrelative:03. unique pin codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D50B284B-F015-4F3A-875D-536AE8266D7F}|02. Magic Numbers\\02. Magic Numbers.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\02. magic numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D50B284B-F015-4F3A-875D-536AE8266D7F}|02. Magic Numbers\\02. Magic Numbers.csproj|solutionrelative:02. magic numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAD60FE-93D0-4BDA-801C-98F9CCB4F923}|01. Stupid Passwords\\01. Stupid Passwords.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\nested loops and methods - exercise\\01. stupid passwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAD60FE-93D0-4BDA-801C-98F9CCB4F923}|01. Stupid Passwords\\01. Stupid Passwords.csproj|solutionrelative:01. stupid passwords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\09. Password Validator\\Program.cs",
+              "RelativeDocumentMoniker": "09. Password Validator\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\09. Password Validator\\Program.cs",
+              "RelativeToolTip": "09. Password Validator\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAowEQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:59.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\08. Multiplication Sign\\Program.cs",
+              "RelativeDocumentMoniker": "08. Multiplication Sign\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\08. Multiplication Sign\\Program.cs",
+              "RelativeToolTip": "08. Multiplication Sign\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:51.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\07. Factorial Division\\Program.cs",
+              "RelativeDocumentMoniker": "07. Factorial Division\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\07. Factorial Division\\Program.cs",
+              "RelativeToolTip": "07. Factorial Division\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:42.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\06. Vowels Count\\Program.cs",
+              "RelativeDocumentMoniker": "06. Vowels Count\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\06. Vowels Count\\Program.cs",
+              "RelativeToolTip": "06. Vowels Count\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:34.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\05. Happy Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "05. Happy Numbers\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\05. Happy Numbers\\Program.cs",
+              "RelativeToolTip": "05. Happy Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:26.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\04. Letter Combinations\\Program.cs",
+              "RelativeDocumentMoniker": "04. Letter Combinations\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\04. Letter Combinations\\Program.cs",
+              "RelativeToolTip": "04. Letter Combinations\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:18.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\Program.cs",
+              "RelativeDocumentMoniker": "03. Unique PIN Codes\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\03. Unique PIN Codes\\Program.cs",
+              "RelativeToolTip": "03. Unique PIN Codes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:09.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\02. Magic Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "02. Magic Numbers\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\02. Magic Numbers\\Program.cs",
+              "RelativeToolTip": "02. Magic Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:14:00.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\01. Stupid Passwords\\Program.cs",
+              "RelativeDocumentMoniker": "01. Stupid Passwords\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Nested Loops and Methods - Exercise\\01. Stupid Passwords\\Program.cs",
+              "RelativeToolTip": "01. Stupid Passwords\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T18:13:48.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -9,3 +9,15 @@ C:\Users\Georgi\Desktop\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-List
 C:\Users\Georgi\Desktop\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\refint\TestApp.dll
 C:\Users\Georgi\Desktop\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.pdb
 C:\Users\Georgi\Desktop\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\07.3.Resources-Exercise-Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\bin\Debug\net6.0\TestApp.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\bin\Debug\net6.0\TestApp.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\bin\Debug\net6.0\TestApp.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\TestApp.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Unit-Testing-Methods-Arrays-Lists\TestApp\obj\Debug\net6.0\ref\TestApp.dll

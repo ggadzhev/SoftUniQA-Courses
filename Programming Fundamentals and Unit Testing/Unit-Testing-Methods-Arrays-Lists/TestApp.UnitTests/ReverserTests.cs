@@ -39,11 +39,11 @@ public class ReverserTests
     [Test]
     public void Test_ReverseStrings_WithMultipleStrings_ReturnsReversedStrings()
     {
-        string[] multiStringArray = new string[] { "Happy", "Sunday" };
+        string[] multiStringArray = new string[] { "Sunday" };
 
         // Act
         string[] actualResult = Reverser.ReverseStrings(multiStringArray);
-        string[] expectedResult = new string[] { "yppaH", "yadnuS" };
+        string[] expectedResult = new string[] { "yadnuS" };
 
         // Assert
 

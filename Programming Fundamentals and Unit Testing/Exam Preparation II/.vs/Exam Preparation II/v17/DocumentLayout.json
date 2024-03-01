@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8DB821-82E0-4AE8-A9EE-C25CCC60279B}|02. Min Max Values\\02. Min Max Values.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\exam preparation ii\\02. min max values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8DB821-82E0-4AE8-A9EE-C25CCC60279B}|02. Min Max Values\\02. Min Max Values.csproj|solutionrelative:02. min max values\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5146A3EF-D205-4885-BD50-7D200781FD65}|01. Magic Numbers\\01. Magic Numbers.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\exam preparation ii\\01. magic numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5146A3EF-D205-4885-BD50-7D200781FD65}|01. Magic Numbers\\01. Magic Numbers.csproj|solutionrelative:01. magic numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8DB821-82E0-4AE8-A9EE-C25CCC60279B}|02. Min Max Values\\02. Min Max Values.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\exam preparation ii\\02. min max values\\02. min max values.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD8DB821-82E0-4AE8-A9EE-C25CCC60279B}|02. Min Max Values\\02. Min Max Values.csproj|solutionrelative:02. min max values\\02. min max values.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "02. Min Max Values.csproj",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation II\\02. Min Max Values\\02. Min Max Values.csproj",
+              "RelativeDocumentMoniker": "02. Min Max Values\\02. Min Max Values.csproj",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation II\\02. Min Max Values\\02. Min Max Values.csproj",
+              "RelativeToolTip": "02. Min Max Values\\02. Min Max Values.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T20:42:28.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation II\\02. Min Max Values\\Program.cs",
+              "RelativeDocumentMoniker": "02. Min Max Values\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation II\\02. Min Max Values\\Program.cs",
+              "RelativeToolTip": "02. Min Max Values\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:40:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation II\\01. Magic Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Magic Numbers\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Exam Preparation II\\01. Magic Numbers\\Program.cs",
+              "RelativeToolTip": "01. Magic Numbers\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T20:39:53.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\bin\Debug\net6.0\01. Magic Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\refint\01. Magic Numbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\01. Magic Numbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Exam Preparation II\01. Magic Numbers\obj\Debug\net6.0\ref\01. Magic Numbers.dll

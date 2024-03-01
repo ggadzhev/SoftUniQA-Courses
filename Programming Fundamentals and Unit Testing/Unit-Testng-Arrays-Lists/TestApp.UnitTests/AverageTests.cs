@@ -6,54 +6,56 @@ namespace TestApp.UnitTests;
 
 public class AverageTests
 {
-    
     [Test]
     public void Test_CalculateAverage_InputHasOneElement_ShouldReturnSameElement()
     {
         // Arrange
-        int[] OneElementArray = { 42 };
-            
+        int[] array = { 42 };
+
         // Act
-        double actualResult = Average.CalculateAverage(OneElementArray);
-        double expectedResult = 42;
+        double result = Average.CalculateAverage(array);
 
         // Assert
-        Assert.That(actualResult, Is.EqualTo(expectedResult));
+        Assert.That(result, Is.EqualTo(42));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasPositiveIntegers_ShouldReturnCorrectAverage()
     {
-        int[] PositiveIntsArray = { 4, 6, 8, 10 };
+        // Arrange
+        int[] array = { 1, 2, 3, 4 };
 
-        double actualResult = Average.CalculateAverage(PositiveIntsArray);
-        double expectedResult = 7;
+        // Act
+        double result = Average.CalculateAverage(array);
 
-        Assert.That(actualResult, Is.EqualTo(expectedResult));
+        // Assert
+        Assert.That(result, Is.EqualTo(2.5));
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasNegativeIntegers_ShouldReturnCorrectAverage()
     {
-        int[] NegativeIntsArray = { -4, -6, -8, -10 };
+        // Arrange
+        int[] array = { -4, -6, -8, -10 };
 
-        double actualResult = Average.CalculateAverage(NegativeIntsArray);
+        // Act
+        double result = Average.CalculateAverage(array);
         double expectedResult = -7;
 
-        Assert.That(actualResult, Is.EqualTo(expectedResult));
-        Assert.Negative(actualResult);
-        
-
+        // Assert
+        Assert.AreEqual(expectedResult, result);
     }
 
     [Test]
     public void Test_CalculateAverage_InputHasMixedIntegers_ShouldReturnCorrectAverage()
     {
-        int[] MixedIntsArray = { 40, -5, 30, -15 };
+        // Arrange
+        int[] array = { -1, 2, 5, 3 };
 
-        double actualResult = Average.CalculateAverage(MixedIntsArray);
-        double expectedResult = 12.5;
+        // Act
+        double result = Average.CalculateAverage(array);
 
-        Assert.That(actualResult, Is.EqualTo(expectedResult));
+        // Assert
+        Assert.That(result, Is.EqualTo(2.25));
     }
 }
