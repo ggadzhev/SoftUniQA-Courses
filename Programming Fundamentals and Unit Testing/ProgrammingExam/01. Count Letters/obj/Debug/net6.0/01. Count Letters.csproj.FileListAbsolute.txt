@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\bin\Debug\net6.0\01. Count Letters.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\bin\Debug\net6.0\01. Count Letters.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\bin\Debug\net6.0\01. Count Letters.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\bin\Debug\net6.0\01. Count Letters.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\bin\Debug\net6.0\01. Count Letters.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\refint\01. Count Letters.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\01. Count Letters.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\ProgrammingExam\01. Count Letters\obj\Debug\net6.0\ref\01. Count Letters.dll

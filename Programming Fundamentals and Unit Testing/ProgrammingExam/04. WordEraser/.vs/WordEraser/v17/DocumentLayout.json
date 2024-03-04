@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi\\Desktop\\Eraser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495310D5-0E6B-461E-BEA5-8A84BAF720E3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi\\desktop\\eraser\\testapp.tests\\worderasertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495310D5-0E6B-461E-BEA5-8A84BAF720E3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\worderasertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2354150-BAF1-4A85-9D6C-A2F6FD74525D}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\eraser\\testapp\\worderaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2354150-BAF1-4A85-9D6C-A2F6FD74525D}|TestApp\\TestApp.csproj|solutionrelative:testapp\\worderaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495310D5-0E6B-461E-BEA5-8A84BAF720E3}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi\\desktop\\eraser\\testapp.tests\\testapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{495310D5-0E6B-461E-BEA5-8A84BAF720E3}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\testapp.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestApp.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\Eraser\\TestApp.Tests\\TestApp.Tests.csproj",
+              "RelativeDocumentMoniker": "TestApp.Tests\\TestApp.Tests.csproj",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\Eraser\\TestApp.Tests\\TestApp.Tests.csproj",
+              "RelativeToolTip": "TestApp.Tests\\TestApp.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-02T07:10:57.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordEraserTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\Eraser\\TestApp.Tests\\WordEraserTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\WordEraserTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\Eraser\\TestApp.Tests\\WordEraserTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\WordEraserTests.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T07:10:26.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordEraser.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\Eraser\\TestApp\\WordEraser.cs",
+              "RelativeDocumentMoniker": "TestApp\\WordEraser.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\Eraser\\TestApp\\WordEraser.cs",
+              "RelativeToolTip": "TestApp\\WordEraser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T07:09:39.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

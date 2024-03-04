@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\bin\Debug\net6.0\StringsToCharArray.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\bin\Debug\net6.0\StringsToCharArray.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\bin\Debug\net6.0\StringsToCharArray.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\bin\Debug\net6.0\StringsToCharArray.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\bin\Debug\net6.0\StringsToCharArray.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\refint\StringsToCharArray.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\StringsToCharArray.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringsToCharArray\obj\Debug\net6.0\ref\StringsToCharArray.dll

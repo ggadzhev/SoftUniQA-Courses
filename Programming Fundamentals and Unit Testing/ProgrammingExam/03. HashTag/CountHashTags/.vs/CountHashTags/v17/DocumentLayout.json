@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi\\Desktop\\03. Hashtag_Checker_Resources\\CountHashTags\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1E1BBD-F15D-4295-83E8-6D01AC0E896D}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi\\desktop\\03. hashtag_checker_resources\\counthashtags\\testapp.tests\\hashtagcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1E1BBD-F15D-4295-83E8-6D01AC0E896D}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\hashtagcheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{618102C2-64D9-4959-BCF0-8B3681F8BF68}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\03. hashtag_checker_resources\\counthashtags\\testapp\\hashtagchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618102C2-64D9-4959-BCF0-8B3681F8BF68}|TestApp\\TestApp.csproj|solutionrelative:testapp\\hashtagchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HashTagCheckerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\03. Hashtag_Checker_Resources\\CountHashTags\\TestApp.Tests\\HashTagCheckerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\HashTagCheckerTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\03. Hashtag_Checker_Resources\\CountHashTags\\TestApp.Tests\\HashTagCheckerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\HashTagCheckerTests.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:58:59.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HashTagChecker.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\03. Hashtag_Checker_Resources\\CountHashTags\\TestApp\\HashTagChecker.cs",
+              "RelativeDocumentMoniker": "TestApp\\HashTagChecker.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\03. Hashtag_Checker_Resources\\CountHashTags\\TestApp\\HashTagChecker.cs",
+              "RelativeToolTip": "TestApp\\HashTagChecker.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T06:58:34.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

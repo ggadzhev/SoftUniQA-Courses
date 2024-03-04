@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\bin\Debug\net6.0\List-EvenOrOddNumbers.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\bin\Debug\net6.0\List-EvenOrOddNumbers.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\bin\Debug\net6.0\List-EvenOrOddNumbers.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\bin\Debug\net6.0\List-EvenOrOddNumbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\bin\Debug\net6.0\List-EvenOrOddNumbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\refint\List-EvenOrOddNumbers.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\List-EvenOrOddNumbers.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\List-EvenOrOddNumbers\obj\Debug\net6.0\ref\List-EvenOrOddNumbers.dll

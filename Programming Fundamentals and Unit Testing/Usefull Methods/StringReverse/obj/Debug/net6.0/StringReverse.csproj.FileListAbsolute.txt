@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\bin\Debug\net6.0\StringReverse.exe
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\bin\Debug\net6.0\StringReverse.deps.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\bin\Debug\net6.0\StringReverse.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\bin\Debug\net6.0\StringReverse.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\bin\Debug\net6.0\StringReverse.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.sourcelink.json
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\refint\StringReverse.dll
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.pdb
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\StringReverse.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Fundamentals and Unit Testing\Usefull Methods\StringReverse\obj\Debug\net6.0\ref\StringReverse.dll
