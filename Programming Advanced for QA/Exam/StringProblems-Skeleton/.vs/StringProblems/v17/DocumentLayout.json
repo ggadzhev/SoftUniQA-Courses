@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi\\Desktop\\StringProblems-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi\\desktop\\stringproblems-skeleton\\testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{932D8F5E-3A10-4172-8448-426B6F52347A}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\stringmodifiertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\stringproblems-skeleton\\testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94635F62-C64B-43D6-B268-E6B38B1CE0A4}|TestApp\\TestApp.csproj|solutionrelative:testapp\\stringmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringModifierTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\StringProblems-Skeleton\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\StringModifierTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\StringProblems-Skeleton\\TestApp.Tests\\StringModifierTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\StringModifierTests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:46:22.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringModifier.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\StringProblems-Skeleton\\TestApp\\StringModifier.cs",
+              "RelativeDocumentMoniker": "TestApp\\StringModifier.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\StringProblems-Skeleton\\TestApp\\StringModifier.cs",
+              "RelativeToolTip": "TestApp\\StringModifier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:46:19.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

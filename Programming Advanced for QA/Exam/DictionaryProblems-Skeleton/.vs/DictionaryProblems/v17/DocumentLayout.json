@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi\\Desktop\\DictionaryProblems-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC77954-F560-4AED-8660-0A1FAB763119}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi\\desktop\\dictionaryproblems-skeleton\\testapp.tests\\sentenceanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC77954-F560-4AED-8660-0A1FAB763119}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\sentenceanalyzertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFE5189-4E54-48EA-AFBB-960D6F45BFDF}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\dictionaryproblems-skeleton\\testapp\\sentenceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFE5189-4E54-48EA-AFBB-960D6F45BFDF}|TestApp\\TestApp.csproj|solutionrelative:testapp\\sentenceanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentenceAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\DictionaryProblems-Skeleton\\TestApp\\SentenceAnalyzer.cs",
+              "RelativeDocumentMoniker": "TestApp\\SentenceAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\DictionaryProblems-Skeleton\\TestApp\\SentenceAnalyzer.cs",
+              "RelativeToolTip": "TestApp\\SentenceAnalyzer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:58:16.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SentenceAnalyzerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\DictionaryProblems-Skeleton\\TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\DictionaryProblems-Skeleton\\TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\SentenceAnalyzerTests.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:57:46.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

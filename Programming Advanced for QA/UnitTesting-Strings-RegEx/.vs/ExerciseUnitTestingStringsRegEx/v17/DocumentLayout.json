@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\emailvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\matchurlstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchurlstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\matchurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\matchurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\matchdatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchdatestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\patterntests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\matchphonenumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchphonenumberstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\matchdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\matchdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\matchphonenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\matchphonenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\matchnamestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\matchnamestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\matchnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\matchnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\reverseconcatenatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\reverseconcatenatetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\textfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\textfiltertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\substringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\substringtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp.unittests\\repeatstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84526950-AA21-45BD-8E32-C3521C7447E0}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\repeatstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\reverseconcatenate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\reverseconcatenate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\substring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\textfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\textfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\unittesting-strings-regex\\testapp\\repeatstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B20788BA-F683-4DB9-9601-2D5DF3A9811C}|TestApp\\TestApp.csproj|solutionrelative:testapp\\repeatstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\EmailValidatorTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\EmailValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\EmailValidatorTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\EmailValidatorTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:39:26.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MatchUrls.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchUrls.cs",
+              "RelativeDocumentMoniker": "TestApp\\MatchUrls.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchUrls.cs",
+              "RelativeToolTip": "TestApp\\MatchUrls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:23:06.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchUrlsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchUrlsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchUrlsTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchUrlsTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchUrlsTests.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:21:06.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MatchDates.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchDates.cs",
+              "RelativeDocumentMoniker": "TestApp\\MatchDates.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchDates.cs",
+              "RelativeToolTip": "TestApp\\MatchDates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:13:49.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatchDatesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchDatesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchDatesTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchDatesTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchDatesTests.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAYwEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:10:58.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MatchPhoneNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchPhoneNumbers.cs",
+              "RelativeDocumentMoniker": "TestApp\\MatchPhoneNumbers.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchPhoneNumbers.cs",
+              "RelativeToolTip": "TestApp\\MatchPhoneNumbers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:06:04.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatchPhoneNumbersTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchPhoneNumbersTests.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAwwDoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:05:52.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MatchNames.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchNames.cs",
+              "RelativeDocumentMoniker": "TestApp\\MatchNames.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\MatchNames.cs",
+              "RelativeToolTip": "TestApp\\MatchNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:04:30.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MatchNamesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchNamesTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\MatchNamesTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\MatchNamesTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\MatchNamesTests.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T20:03:38.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatternTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PatternTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\PatternTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PatternTests.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T19:39:54.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReverseConcatenate.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\ReverseConcatenate.cs",
+              "RelativeDocumentMoniker": "TestApp\\ReverseConcatenate.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\ReverseConcatenate.cs",
+              "RelativeToolTip": "TestApp\\ReverseConcatenate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:23:43.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReverseConcatenateTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ReverseConcatenateTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:23:41.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TextFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\TextFilter.cs",
+              "RelativeDocumentMoniker": "TestApp\\TextFilter.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\TextFilter.cs",
+              "RelativeToolTip": "TestApp\\TextFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:21:03.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TextFilterTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\TextFilterTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\TextFilterTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\TextFilterTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\TextFilterTests.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:11:19.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Substring.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\Substring.cs",
+              "RelativeDocumentMoniker": "TestApp\\Substring.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\Substring.cs",
+              "RelativeToolTip": "TestApp\\Substring.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:04:40.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SubstringTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\SubstringTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\SubstringTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\SubstringTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\SubstringTests.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T21:03:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RepeatStrings.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\RepeatStrings.cs",
+              "RelativeDocumentMoniker": "TestApp\\RepeatStrings.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp\\RepeatStrings.cs",
+              "RelativeToolTip": "TestApp\\RepeatStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:56:54.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RepeatStringsTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\RepeatStringsTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\RepeatStringsTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\UnitTesting-Strings-RegEx\\TestApp.UnitTests\\RepeatStringsTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\RepeatStringsTests.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T20:55:32.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

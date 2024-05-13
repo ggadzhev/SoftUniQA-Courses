@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\persontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp.unittests\\shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\shoptests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\planettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp.unittests\\vehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\vehicletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp\\vehicle\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\vehicle\\vehicles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp.unittests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\studenttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp.unittests\\songtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8FD84A-ACC4-4024-9704-B4C11070BEAD}|TestApp.UnitTests\\TestApp.UnitTests.csproj|solutionrelative:testapp.unittests\\songtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp\\store\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\store\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp\\store\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\store\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp\\store\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\store\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\10-resources-unit-testing-exercise-classes\\testapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EEF27A-7821-446A-B339-144B4F177830}|TestApp\\TestApp.csproj|solutionrelative:testapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Person.cs",
+              "RelativeDocumentMoniker": "TestApp\\Person.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Person.cs",
+              "RelativeToolTip": "TestApp\\Person.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwDIAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:50:37.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PersonTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PersonTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PersonTests.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAYwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:35:17.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicles.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Vehicle\\Vehicles.cs",
+              "RelativeDocumentMoniker": "TestApp\\Vehicle\\Vehicles.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Vehicle\\Vehicles.cs",
+              "RelativeToolTip": "TestApp\\Vehicle\\Vehicles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:19:30.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\VehicleTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\VehicleTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\VehicleTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\VehicleTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:18:12.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanetTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\PlanetTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\PlanetTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\PlanetTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:18:04.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Store\\Box.cs",
+              "RelativeDocumentMoniker": "TestApp\\Store\\Box.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Store\\Box.cs",
+              "RelativeToolTip": "TestApp\\Store\\Box.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:13:24.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Store\\Item.cs",
+              "RelativeDocumentMoniker": "TestApp\\Store\\Item.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Store\\Item.cs",
+              "RelativeToolTip": "TestApp\\Store\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:13:23.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Store\\Shop.cs",
+              "RelativeDocumentMoniker": "TestApp\\Store\\Shop.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Store\\Shop.cs",
+              "RelativeToolTip": "TestApp\\Store\\Shop.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:13:22.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\ShopTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\ShopTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\ShopTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\ShopTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:12:23.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SongTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\SongTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\SongTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\SongTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\SongTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T17:07:09.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Song.cs",
+              "RelativeDocumentMoniker": "TestApp\\Song.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Song.cs",
+              "RelativeToolTip": "TestApp\\Song.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:54:46.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\StudentTests.cs",
+              "RelativeDocumentMoniker": "TestApp.UnitTests\\StudentTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp.UnitTests\\StudentTests.cs",
+              "RelativeToolTip": "TestApp.UnitTests\\StudentTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:49:38.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Student.cs",
+              "RelativeDocumentMoniker": "TestApp\\Student.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\10-Resources-Unit-Testing-Exercise-Classes\\TestApp\\Student.cs",
+              "RelativeToolTip": "TestApp\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:49:35.455Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B76DD172-24D2-4AA9-B5E5-52D0CDA70323}|1.1 Count Chars in a String\\1.1 Count Chars in a String.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq - exercise\\1.1 count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76DD172-24D2-4AA9-B5E5-52D0CDA70323}|1.1 Count Chars in a String\\1.1 Count Chars in a String.csproj|solutionrelative:1.1 count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E72F7CD-FFBA-4415-A411-084A5E253203}|02. A Miner Task\\02. A Miner Task.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq - exercise\\02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E72F7CD-FFBA-4415-A411-084A5E253203}|02. A Miner Task\\02. A Miner Task.csproj|solutionrelative:02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4358EC-38EC-48C8-A36C-7C1A47826A3A}|03. Orders\\03. Orders.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq - exercise\\03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4358EC-38EC-48C8-A36C-7C1A47826A3A}|03. Orders\\03. Orders.csproj|solutionrelative:03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F4FADD-645A-40D0-B7E9-A1F0E33F3826}|04. SoftUni Parking\\04. SoftUni Parking.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq - exercise\\04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F4FADD-645A-40D0-B7E9-A1F0E33F3826}|04. SoftUni Parking\\04. SoftUni Parking.csproj|solutionrelative:04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1001092-E40E-456F-B768-2DB335F4F6AD}|05. Student Academy\\05. Student Academy.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq - exercise\\05. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1001092-E40E-456F-B768-2DB335F4F6AD}|05. Student Academy\\05. Student Academy.csproj|solutionrelative:05. student academy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44C5175-AC01-4D91-91A2-FC7607C534BD}|06. Company Users\\06. Company Users.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq - exercise\\06. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44C5175-AC01-4D91-91A2-FC7607C534BD}|06. Company Users\\06. Company Users.csproj|solutionrelative:06. company users\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AAAEEDE-38E8-49AD-A8C4-0D655C89257F}|01. Count Chars in a String\\01. Count Chars in a String.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq - exercise\\01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AAAEEDE-38E8-49AD-A8C4-0D655C89257F}|01. Count Chars in a String\\01. Count Chars in a String.csproj|solutionrelative:01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\1.1 Count Chars in a String\\Program.cs",
+              "RelativeDocumentMoniker": "1.1 Count Chars in a String\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\1.1 Count Chars in a String\\Program.cs",
+              "RelativeToolTip": "1.1 Count Chars in a String\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:41:56.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\06. Company Users\\Program.cs",
+              "RelativeDocumentMoniker": "06. Company Users\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\06. Company Users\\Program.cs",
+              "RelativeToolTip": "06. Company Users\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:32:18.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\05. Student Academy\\Program.cs",
+              "RelativeDocumentMoniker": "05. Student Academy\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\05. Student Academy\\Program.cs",
+              "RelativeToolTip": "05. Student Academy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:32:05.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\04. SoftUni Parking\\Program.cs",
+              "RelativeDocumentMoniker": "04. SoftUni Parking\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\04. SoftUni Parking\\Program.cs",
+              "RelativeToolTip": "04. SoftUni Parking\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:31:56.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\03. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03. Orders\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\03. Orders\\Program.cs",
+              "RelativeToolTip": "03. Orders\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:31:47.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\02. A Miner Task\\Program.cs",
+              "RelativeDocumentMoniker": "02. A Miner Task\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\02. A Miner Task\\Program.cs",
+              "RelativeToolTip": "02. A Miner Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:31:38.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\01. Count Chars in a String\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Chars in a String\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ - Exercise\\01. Count Chars in a String\\Program.cs",
+              "RelativeToolTip": "01. Count Chars in a String\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:31:14.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

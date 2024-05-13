@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Usefull Methods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{95B4B975-70FD-4B48-8922-0D6E51DA3C2F}|StringReverse\\StringReverse.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\usefull methods\\stringreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95B4B975-70FD-4B48-8922-0D6E51DA3C2F}|StringReverse\\StringReverse.csproj|solutionrelative:stringreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95B4B975-70FD-4B48-8922-0D6E51DA3C2F}|StringReverse\\StringReverseMethod.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\usefull methods\\stringreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95B4B975-70FD-4B48-8922-0D6E51DA3C2F}|StringReverse\\StringReverseMethod.csproj|solutionrelative:stringreverse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A36A1634-5BF0-46C5-BB81-6C5C69C199CA}|StringsToCharArray\\StringsToCharArray.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\usefull methods\\stringstochararray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A36A1634-5BF0-46C5-BB81-6C5C69C199CA}|StringsToCharArray\\StringsToCharArray.csproj|solutionrelative:stringstochararray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BA737AF-42B0-4016-8F02-04177DB7E1E3}|MethodOne\\MethodOne.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\usefull methods\\methodone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BA737AF-42B0-4016-8F02-04177DB7E1E3}|MethodOne\\MethodOne.csproj|solutionrelative:methodone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{94791425-C145-4742-818A-F71B083827B8}|List-EvenOrOddNumbers\\List-EvenOrOddNumbers.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\usefull methods\\list-evenoroddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94791425-C145-4742-818A-F71B083827B8}|List-EvenOrOddNumbers\\List-EvenOrOddNumbers.csproj|solutionrelative:list-evenoroddnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA737AF-42B0-4016-8F02-04177DB7E1E3}|MethodOne\\MathPowerMethod.csproj|f:\\softuniqa-courses\\programming fundamentals and unit testing\\usefull methods\\methodone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA737AF-42B0-4016-8F02-04177DB7E1E3}|MethodOne\\MathPowerMethod.csproj|solutionrelative:methodone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Usefull Methods\\StringReverse\\Program.cs",
               "RelativeDocumentMoniker": "StringReverse\\Program.cs",
-              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Usefull Methods\\StringReverse\\Program.cs",
-              "RelativeToolTip": "StringReverse\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Usefull Methods\\StringReverse\\Program.cs*",
+              "RelativeToolTip": "StringReverse\\Program.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T19:50:08.557Z",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Usefull Methods\\List-EvenOrOddNumbers\\Program.cs",
               "RelativeDocumentMoniker": "List-EvenOrOddNumbers\\Program.cs",
@@ -68,12 +68,11 @@
               "RelativeToolTip": "List-EvenOrOddNumbers\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T18:20:29.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T18:20:29.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Fundamentals and Unit Testing\\Usefull Methods\\MethodOne\\Program.cs",
               "RelativeDocumentMoniker": "MethodOne\\Program.cs",
@@ -81,8 +80,7 @@
               "RelativeToolTip": "MethodOne\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-02T18:02:18.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-02T18:02:18.755Z"
             }
           ]
         }

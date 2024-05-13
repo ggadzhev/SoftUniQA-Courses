@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59471F77-1ED6-421F-967B-37ACB05C8A66}|03. Sum of Integers\\03. Sum of Integers.csproj|f:\\softuniqa-courses\\programming advanced for qa\\exceptions and error handling - lab\\03. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59471F77-1ED6-421F-967B-37ACB05C8A66}|03. Sum of Integers\\03. Sum of Integers.csproj|solutionrelative:03. sum of integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FEFA11F-C856-41DF-AC2E-24FD3F695905}|02. Enter Numbers\\02. Enter Numbers.csproj|f:\\softuniqa-courses\\programming advanced for qa\\exceptions and error handling - lab\\02. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FEFA11F-C856-41DF-AC2E-24FD3F695905}|02. Enter Numbers\\02. Enter Numbers.csproj|solutionrelative:02. enter numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51C87E2F-6F0E-4933-BB57-18250389C892}|01A Square Root\\01A Square Root.csproj|f:\\softuniqa-courses\\programming advanced for qa\\exceptions and error handling - lab\\01a square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C87E2F-6F0E-4933-BB57-18250389C892}|01A Square Root\\01A Square Root.csproj|solutionrelative:01a square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72BDA288-F134-485F-BF61-F562BD7AE737}|01. Square Root\\01. Square Root.csproj|f:\\softuniqa-courses\\programming advanced for qa\\exceptions and error handling - lab\\01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72BDA288-F134-485F-BF61-F562BD7AE737}|01. Square Root\\01. Square Root.csproj|solutionrelative:01. square root\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\01A Square Root\\Program.cs",
+              "RelativeDocumentMoniker": "01A Square Root\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\01A Square Root\\Program.cs",
+              "RelativeToolTip": "01A Square Root\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:52:08.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\03. Sum of Integers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum of Integers\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\03. Sum of Integers\\Program.cs",
+              "RelativeToolTip": "03. Sum of Integers\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:04:54.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\02. Enter Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "02. Enter Numbers\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\02. Enter Numbers\\Program.cs",
+              "RelativeToolTip": "02. Enter Numbers\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:04:46.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\01. Square Root\\Program.cs",
+              "RelativeDocumentMoniker": "01. Square Root\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Exceptions and Error Handling - Lab\\01. Square Root\\Program.cs",
+              "RelativeToolTip": "01. Square Root\\Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:04:19.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

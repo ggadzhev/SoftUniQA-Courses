@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.exe
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.deps.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\bin\Debug\net6.0\02. Repeat Strings.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.sourcelink.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\refint\02. Repeat Strings.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\02. Repeat Strings.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Strings and Text Processing - Lab\02. Repeat Strings\obj\Debug\net6.0\ref\02. Repeat Strings.dll

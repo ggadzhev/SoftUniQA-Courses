@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0718E73-7251-49AA-99F8-6D83027D4897}|03. Word Synonyms\\03. Word Synonyms.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq\\03. word synonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0718E73-7251-49AA-99F8-6D83027D4897}|03. Word Synonyms\\03. Word Synonyms.csproj|solutionrelative:03. word synonyms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF28C065-C705-456C-8619-F17F952CD949}|02. Odd Occurrences\\02. Odd Occurrences.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq\\02. odd occurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF28C065-C705-456C-8619-F17F952CD949}|02. Odd Occurrences\\02. Odd Occurrences.csproj|solutionrelative:02. odd occurrences\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A622406F-BF28-4B2D-BF9A-761FF105CC71}|04. Word Filter\\04. Word Filter.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq\\04. word filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A622406F-BF28-4B2D-BF9A-761FF105CC71}|04. Word Filter\\04. Word Filter.csproj|solutionrelative:04. word filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DB8753-1EB2-4492-B0B1-A7E8FE213B3C}|01. Count Real Numbers\\01. Count Real Numbers.csproj|f:\\softuniqa-courses\\programming advanced for qa\\dictionaries, lambda and linq\\01. count real numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DB8753-1EB2-4492-B0B1-A7E8FE213B3C}|01. Count Real Numbers\\01. Count Real Numbers.csproj|solutionrelative:01. count real numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\04. Word Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Word Filter\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\04. Word Filter\\Program.cs",
+              "RelativeToolTip": "04. Word Filter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:47:11.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\03. Word Synonyms\\Program.cs",
+              "RelativeDocumentMoniker": "03. Word Synonyms\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\03. Word Synonyms\\Program.cs",
+              "RelativeToolTip": "03. Word Synonyms\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T17:47:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\02. Odd Occurrences\\Program.cs",
+              "RelativeDocumentMoniker": "02. Odd Occurrences\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\02. Odd Occurrences\\Program.cs",
+              "RelativeToolTip": "02. Odd Occurrences\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T17:38:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\01. Count Real Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Real Numbers\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Dictionaries, Lambda and LINQ\\01. Count Real Numbers\\Program.cs",
+              "RelativeToolTip": "01. Count Real Numbers\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:39:32.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.exe
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.deps.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\bin\Debug\net6.0\01. Square Root.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.sourcelink.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\refint\01. Square Root.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\01. Square Root.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exceptions and Error Handling - Lab\01. Square Root\obj\Debug\net6.0\ref\01. Square Root.dll

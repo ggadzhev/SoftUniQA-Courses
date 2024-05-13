@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Objects and Classes - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16A49FBA-D054-4E17-8F88-5FB9536B0D09}|03. Store Boxes\\03. Store Boxes.csproj|f:\\softuniqa-courses\\programming advanced for qa\\objects and classes - lab\\03. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16A49FBA-D054-4E17-8F88-5FB9536B0D09}|03. Store Boxes\\03. Store Boxes.csproj|solutionrelative:03. store boxes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0C4EB35-A995-44AF-BF73-954B43332141}|02. Students\\02. Students.csproj|f:\\softuniqa-courses\\programming advanced for qa\\objects and classes - lab\\02. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0C4EB35-A995-44AF-BF73-954B43332141}|02. Students\\02. Students.csproj|solutionrelative:02. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D448001-F0C4-435E-833B-481AD4EBDE27}|01. Songs\\01. Songs.csproj|f:\\softuniqa-courses\\programming advanced for qa\\objects and classes - lab\\01. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D448001-F0C4-435E-833B-481AD4EBDE27}|01. Songs\\01. Songs.csproj|solutionrelative:01. songs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Objects and Classes - Lab\\03. Store Boxes\\Program.cs",
+              "RelativeDocumentMoniker": "03. Store Boxes\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Objects and Classes - Lab\\03. Store Boxes\\Program.cs",
+              "RelativeToolTip": "03. Store Boxes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:28:56.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Objects and Classes - Lab\\02. Students\\Program.cs",
+              "RelativeDocumentMoniker": "02. Students\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Objects and Classes - Lab\\02. Students\\Program.cs",
+              "RelativeToolTip": "02. Students\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:28:41.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Objects and Classes - Lab\\01. Songs\\Program.cs",
+              "RelativeDocumentMoniker": "01. Songs\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Objects and Classes - Lab\\01. Songs\\Program.cs",
+              "RelativeToolTip": "01. Songs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T11:28:28.172Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

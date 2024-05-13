@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Regular Expressions - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65C1644A-D2A7-4D5A-B7BF-EE12EC3A30F5}|03. Match Dates\\03. Match Dates.csproj|f:\\softuniqa-courses\\programming advanced for qa\\regular expressions - lab\\03. match dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65C1644A-D2A7-4D5A-B7BF-EE12EC3A30F5}|03. Match Dates\\03. Match Dates.csproj|solutionrelative:03. match dates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AB0432B-B78A-4163-8342-D2B6D641C106}|02. Match Phone Number\\02. Match Phone Number.csproj|f:\\softuniqa-courses\\programming advanced for qa\\regular expressions - lab\\02. match phone number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AB0432B-B78A-4163-8342-D2B6D641C106}|02. Match Phone Number\\02. Match Phone Number.csproj|solutionrelative:02. match phone number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DAE040-B6E3-4751-9CD6-9CDA091ADBE0}|01. Match Full Name\\01. Match Full Name.csproj|f:\\softuniqa-courses\\programming advanced for qa\\regular expressions - lab\\01. match full name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DAE040-B6E3-4751-9CD6-9CDA091ADBE0}|01. Match Full Name\\01. Match Full Name.csproj|solutionrelative:01. match full name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Regular Expressions - Lab\\03. Match Dates\\Program.cs",
+              "RelativeDocumentMoniker": "03. Match Dates\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Regular Expressions - Lab\\03. Match Dates\\Program.cs",
+              "RelativeToolTip": "03. Match Dates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T19:14:00.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Regular Expressions - Lab\\02. Match Phone Number\\Program.cs",
+              "RelativeDocumentMoniker": "02. Match Phone Number\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Regular Expressions - Lab\\02. Match Phone Number\\Program.cs",
+              "RelativeToolTip": "02. Match Phone Number\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T18:51:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Regular Expressions - Lab\\01. Match Full Name\\Program.cs",
+              "RelativeDocumentMoniker": "01. Match Full Name\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Regular Expressions - Lab\\01. Match Full Name\\Program.cs",
+              "RelativeToolTip": "01. Match Full Name\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T16:49:57.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

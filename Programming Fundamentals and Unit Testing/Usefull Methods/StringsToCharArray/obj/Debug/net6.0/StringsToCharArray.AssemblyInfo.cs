@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringsToCharArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+930963e621e5a750739d6c9a2e94af49f3d48e68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0eac82656686cb02a9440c931477439071f8a453")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringsToCharArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringsToCharArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

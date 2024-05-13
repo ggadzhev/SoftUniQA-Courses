@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Georgi\\Desktop\\EmployeeManagementSystem-Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26A8F3D2-CCB6-4EA8-A6F1-44567A33E647}|TestApp.Tests\\TestApp.Tests.csproj|c:\\users\\georgi\\desktop\\employeemanagementsystem-skeleton\\testapp.tests\\employeemanagementsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26A8F3D2-CCB6-4EA8-A6F1-44567A33E647}|TestApp.Tests\\TestApp.Tests.csproj|solutionrelative:testapp.tests\\employeemanagementsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E138B32-4897-4E57-A96A-3CEA6AE4E741}|TestApp\\TestApp.csproj|c:\\users\\georgi\\desktop\\employeemanagementsystem-skeleton\\testapp\\employeemanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E138B32-4897-4E57-A96A-3CEA6AE4E741}|TestApp\\TestApp.csproj|solutionrelative:testapp\\employeemanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManagementSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\EmployeeManagementSystem-Skeleton\\TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "RelativeDocumentMoniker": "TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\EmployeeManagementSystem-Skeleton\\TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "RelativeToolTip": "TestApp.Tests\\EmployeeManagementSystemTests.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:14:07.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManagementSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Georgi\\Desktop\\EmployeeManagementSystem-Skeleton\\TestApp\\EmployeeManagementSystem.cs",
+              "RelativeDocumentMoniker": "TestApp\\EmployeeManagementSystem.cs",
+              "ToolTip": "C:\\Users\\Georgi\\Desktop\\EmployeeManagementSystem-Skeleton\\TestApp\\EmployeeManagementSystem.cs",
+              "RelativeToolTip": "TestApp\\EmployeeManagementSystem.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T07:13:44.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

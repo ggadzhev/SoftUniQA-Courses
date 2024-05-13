@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073E72DE-89B2-4FCA-8139-0AC2095C35A7}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|f:\\softuniqa-courses\\programming advanced for qa\\strings and text processing - lab\\05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073E72DE-89B2-4FCA-8139-0AC2095C35A7}|05. Digits, Letters and Other\\05. Digits, Letters and Other.csproj|solutionrelative:05. digits, letters and other\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBB19BE-4456-47CE-9CD8-B91C56F55DE4}|04. Text Filter\\04. Text Filter.csproj|f:\\softuniqa-courses\\programming advanced for qa\\strings and text processing - lab\\04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBB19BE-4456-47CE-9CD8-B91C56F55DE4}|04. Text Filter\\04. Text Filter.csproj|solutionrelative:04. text filter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7A6888-80AF-4DC4-9B14-29E5940142FB}|02. Repeat Strings\\02. Repeat Strings.csproj|f:\\softuniqa-courses\\programming advanced for qa\\strings and text processing - lab\\02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7A6888-80AF-4DC4-9B14-29E5940142FB}|02. Repeat Strings\\02. Repeat Strings.csproj|solutionrelative:02. repeat strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{693D1683-E215-421A-AB63-FF0BFD41A228}|03. Substring\\03. Substring.csproj|f:\\softuniqa-courses\\programming advanced for qa\\strings and text processing - lab\\03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693D1683-E215-421A-AB63-FF0BFD41A228}|03. Substring\\03. Substring.csproj|solutionrelative:03. substring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96432DF4-CEFF-4111-B2FF-605CCA77AB17}|01. Reverse Strings\\01. Reverse Strings.csproj|f:\\softuniqa-courses\\programming advanced for qa\\strings and text processing - lab\\01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96432DF4-CEFF-4111-B2FF-605CCA77AB17}|01. Reverse Strings\\01. Reverse Strings.csproj|solutionrelative:01. reverse strings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeDocumentMoniker": "05. Digits, Letters and Other\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\05. Digits, Letters and Other\\Program.cs",
+              "RelativeToolTip": "05. Digits, Letters and Other\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:04:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\04. Text Filter\\Program.cs",
+              "RelativeDocumentMoniker": "04. Text Filter\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\04. Text Filter\\Program.cs",
+              "RelativeToolTip": "04. Text Filter\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:04:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\03. Substring\\Program.cs",
+              "RelativeDocumentMoniker": "03. Substring\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\03. Substring\\Program.cs",
+              "RelativeToolTip": "03. Substring\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:47:36.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeDocumentMoniker": "02. Repeat Strings\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\02. Repeat Strings\\Program.cs",
+              "RelativeToolTip": "02. Repeat Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:46:33.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\01. Reverse Strings\\Program.cs",
+              "RelativeDocumentMoniker": "01. Reverse Strings\\Program.cs",
+              "ToolTip": "F:\\SoftUniQA-Courses\\Programming Advanced for QA\\Strings and Text Processing - Lab\\01. Reverse Strings\\Program.cs",
+              "RelativeToolTip": "01. Reverse Strings\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:42:51.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

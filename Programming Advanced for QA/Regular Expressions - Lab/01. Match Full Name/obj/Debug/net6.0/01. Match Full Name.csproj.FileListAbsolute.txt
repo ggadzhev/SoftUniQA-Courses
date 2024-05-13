@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.exe
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.deps.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\bin\Debug\net6.0\01. Match Full Name.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.sourcelink.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\refint\01. Match Full Name.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\01. Match Full Name.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Regular Expressions - Lab\01. Match Full Name\obj\Debug\net6.0\ref\01. Match Full Name.dll

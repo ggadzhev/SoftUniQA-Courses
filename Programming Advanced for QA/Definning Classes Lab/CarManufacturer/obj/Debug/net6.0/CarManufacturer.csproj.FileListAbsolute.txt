@@ -1,0 +1,15 @@
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.sourcelink.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Definning Classes Lab\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll

@@ -1,0 +1,12 @@
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\bin\Debug\net6.0\TestApp.deps.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\bin\Debug\net6.0\TestApp.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\bin\Debug\net6.0\TestApp.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\TestApp.sourcelink.json
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\TestApp.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\TestApp.pdb
+F:\SoftUniQA-Courses\Programming Advanced for QA\Exam Preparation I\03-Product-Resources\ClassesResources\TestApp\obj\Debug\net6.0\ref\TestApp.dll
